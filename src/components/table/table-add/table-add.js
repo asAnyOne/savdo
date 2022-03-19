@@ -1,4 +1,5 @@
 import { Component } from "react";
+import TableList from "../table-list/table-list";
 import "./table-add.css";
 export default class TableAdd extends Component {
   constructor(props) {
@@ -39,7 +40,8 @@ export default class TableAdd extends Component {
           phone: "",
           zipCode: "",
         })
-      );
+      )
+      .then(() => new TableList());
   };
 
   render() {
