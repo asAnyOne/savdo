@@ -1,0 +1,75 @@
+td,
+th {
+  border: 1px solid rgb(190, 190, 190);
+  padding: 0 5px 2px 2px;
+}
+
+td {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+
+tr:nth-child(even),
+tr:nth-child(even) input {
+  background-color: #eee;
+}
+
+th[scope="col"] {
+  background-color: #696969;
+  color: #fff;
+}
+
+th[scope="row"] {
+  background-color: #d7d9f2;
+}
+form {
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.table-filter {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  position: fixed;
+  margin-top: 50px;
+  z-index: 200;
+  background: rgb(184, 182, 182);
+  width: 100%;
+}
+.table-filter li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  cursor: pointer;
+  font-size: 20px;
+  color: rgb(14, 13, 13);
+  border: solid 1px #696969;
+  height: 100%;
+  text-align: center;
+  padding: 10px 15px;
+}
+.table-filter li:hover {
+  background: white;
+  color: rgb(184, 182, 182);
+  transition: all ease 0.5s;
+}
+
+table {
+  position: relative;
+  border-collapse: collapse;
+  border: 2px solid rgb(200, 200, 200);
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  width: 100%;
+  top: 100px;
+}
+span.edit,
+.button {
+  background: rgb(158, 205, 236);
+  border-radius: 3px;
+}

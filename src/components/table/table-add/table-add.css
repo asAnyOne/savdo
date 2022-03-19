@@ -1,0 +1,15 @@
+.id {
+  max-width: 50px;
+}
+
+.table-add td {
+  padding: 5px 0;
+  background-color: rgb(190, 190, 190);
+}
+.table-add input,
+.table-add select {
+  font-size: 20px;
+}
+.table-add .button {
+  width: 100%;
+}

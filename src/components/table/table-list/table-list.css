@@ -1,0 +1,28 @@
+.id {
+  max-width: 50px;
+}
+.name,
+.adress {
+  width: 95%;
+}
+.delete {
+  display: inline-block;
+  text-align: center;
+  background-color: red;
+  color: white;
+  margin-left: 20%;
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.border input {
+  border-style: none;
+  box-sizing: border-box;
+}
+span.edit {
+  display: inline-block;
+  border: 1px solid black;
+  cursor: pointer;
+}

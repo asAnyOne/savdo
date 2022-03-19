@@ -1,0 +1,4732 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "name": "Асосий склад [Sklad]",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E1127A9E-08E7-40C2-B083-5DBCD3C2DE2"
+    },
+    {
+      "id": 2,
+      "name": "Катартол [Sklad]",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AB46285D-8D9F-4F41-9681-6D98E190D0C"
+    },
+    {
+      "id": 3,
+      "name": "Маъруф диллер",
+      "phone": "+998939930707",
+      "address": "",
+      "my_uuid": "{454AFC7B-E23F-40A8-B43D-55B7A24EB2D"
+    },
+    {
+      "id": 4,
+      "name": "Зохиджон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6E9C1D19-875C-49E4-AE67-22996DE0BEB"
+    },
+    {
+      "id": 5,
+      "name": "Жавохир",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{859D51B1-B1D8-4DFC-9A35-C680C48DC03"
+    },
+    {
+      "id": 6,
+      "name": "Шахбоз котортол 20",
+      "phone": "+998998537033",
+      "address": "Котортол оптовийда 20 дукон савдо килади",
+      "my_uuid": "{D9DB8280-E8AC-4FBA-8CC0-AFB6111389B"
+    },
+    {
+      "id": 7,
+      "name": "Бобур Коракул",
+      "phone": "+998934584272",
+      "address": "БУхоро вилояти ?оракул тумани",
+      "my_uuid": "{2ADF0CAB-6ECB-4C7B-9EE3-E8D6528DEF6"
+    },
+    {
+      "id": 8,
+      "name": "Шахбоз котортол 34",
+      "phone": "+998998884778",
+      "address": "Тошкент шахри ?отортол оптовий бозор",
+      "my_uuid": "{BA520FE0-187F-40EC-980C-C089525B3BB"
+    },
+    {
+      "id": 9,
+      "name": "Акром коракул",
+      "phone": "+998936548888",
+      "address": "БУхоро вилояти ?оракул тумани",
+      "my_uuid": "{BC5328B6-16C9-4779-B28E-54F604858B8"
+    },
+    {
+      "id": 10,
+      "name": "Азимжон ака Бухоро",
+      "phone": "+998914419999",
+      "address": "Бухоро вилояти Гиждивон туман",
+      "my_uuid": "{DBBBAA59-B467-4DED-B7D7-B8533B8C089"
+    },
+    {
+      "id": 11,
+      "name": "Ойбек ака иштихон",
+      "phone": "+998 90 2499099, +998978926565",
+      "address": "Самарканд вилояти Иштихон тумани",
+      "my_uuid": "{97D80AEE-B621-4D30-9443-86E23DE9C17"
+    },
+    {
+      "id": 12,
+      "name": "Журабек катортол",
+      "phone": "+998974632223",
+      "address": "Тошкент шахри Котортол савдо маркази",
+      "my_uuid": "{F3E7C2DF-2A85-47CC-A936-B71C72DE2E3"
+    },
+    {
+      "id": 13,
+      "name": "Акмал ака котортол 19",
+      "phone": "+998973021483",
+      "address": "Тошкент шахри, Котортол савдо маркази",
+      "my_uuid": "{1216A453-D503-4607-B960-6380BA102C3"
+    },
+    {
+      "id": 14,
+      "name": "Камол ака котортол",
+      "phone": "+998977212320",
+      "address": "Тошкент шахри, Котортол оптовий бозор",
+      "my_uuid": "{2FB4B4FE-91F8-4D8E-8E21-E178B0624D4"
+    },
+    {
+      "id": 15,
+      "name": "Дадахон Пластик",
+      "phone": "",
+      "address": "пластикдаги пуллар",
+      "my_uuid": "{7C91A515-7F5C-4D14-8D50-8A33983F9CE"
+    },
+    {
+      "id": 16,
+      "name": "Расул ака катортол 12",
+      "phone": "+998936066000",
+      "address": "Тошкент шахри, Катортол савдо маркази",
+      "my_uuid": "{56C177B8-5C8E-42B8-A5C4-BD93D1B0E0A"
+    },
+    {
+      "id": 17,
+      "name": "Миргиес ака Б?",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C0C87FE4-C21F-403A-B5B6-387A058FD8C"
+    },
+    {
+      "id": 18,
+      "name": "Дона дуконлар САВДО",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{070C3CE5-2D2D-4F5E-AB46-C862421082E"
+    },
+    {
+      "id": 19,
+      "name": "Фазлиддин ака куйлик",
+      "phone": "+998909780085",
+      "address": "Тошкент шахри Куйлик бозор",
+      "my_uuid": "{54544CC2-52AC-45F5-8107-BAF0E057A51"
+    },
+    {
+      "id": 20,
+      "name": "Абдулла ака  котортол",
+      "phone": "+998977509990",
+      "address": "Тошкент шахри",
+      "my_uuid": "{14414164-843C-4158-86C4-294BCD1B2E8"
+    },
+    {
+      "id": 21,
+      "name": "Гиес ака",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{14B26CD5-0F70-47B8-B291-F4D7F5F2447"
+    },
+    {
+      "id": 22,
+      "name": "Дилшод ака 66",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8B1E2DA5-14F3-4923-B726-22AFFAF5636"
+    },
+    {
+      "id": 23,
+      "name": "Жахон ака Артел",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{764CEF9A-2F7D-4CE9-8989-24595924ADE"
+    },
+    {
+      "id": 24,
+      "name": "Фарзод ака Ургут оптом",
+      "phone": "+998979280076",
+      "address": "Samarqand viloyati",
+      "my_uuid": "{E5124509-E660-4414-8C97-45A2A49C961"
+    },
+    {
+      "id": 25,
+      "name": "ЖАВОХИР КАССА",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C36BEA9C-69EE-40D3-B0F3-556C09B1E46"
+    },
+    {
+      "id": 26,
+      "name": "Нодир Катортол 28",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4E7F6CAE-CD4C-460A-8BFA-5E7EF747D0C"
+    },
+    {
+      "id": 27,
+      "name": "Лазиз ака Хатирчи",
+      "phone": "+998913313577",
+      "address": "Navoi viloyati Xatirchi tumani",
+      "my_uuid": "{4D15440D-7962-40F5-8BD4-092F7188435"
+    },
+    {
+      "id": 28,
+      "name": "Икром ака оккургон",
+      "phone": "+998901324848",
+      "address": "Toshkent shahri, Oqqorgon tumani",
+      "my_uuid": "{D0B89D7E-C58E-482F-94AE-22507A11CC1"
+    },
+    {
+      "id": 29,
+      "name": "Дилмурод",
+      "phone": "+998909662121",
+      "address": "",
+      "my_uuid": "{6BCF8FF7-812D-415C-BF76-7D62F33DA7B"
+    },
+    {
+      "id": 30,
+      "name": "Зохид ака куйлик",
+      "phone": "+998909321810",
+      "address": "Toshkent shahri Quyliq bozor",
+      "my_uuid": "{DF448914-3125-4B9B-B87D-96574E781DD"
+    },
+    {
+      "id": 31,
+      "name": "ДАДАХОН ТАСИСЧИ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6E2217E3-E111-4911-B60C-48DE930072C"
+    },
+    {
+      "id": 32,
+      "name": "Акмал агент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D3DD5576-A749-4820-A6E7-002EBF14D09"
+    },
+    {
+      "id": 33,
+      "name": "Инвентаризация",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E6A2D8B0-6897-4AF6-9629-97D2B85DAFF"
+    },
+    {
+      "id": 34,
+      "name": "Аскар ака карши",
+      "phone": "",
+      "address": "Кашкадарё вилояти Карши шихри",
+      "my_uuid": "{344E9EB6-4A52-4AEF-8D5F-67BA760D6B5"
+    },
+    {
+      "id": 35,
+      "name": "Уктам ака Жомбой-2",
+      "phone": "+998909909465",
+      "address": "Samarqand viloyati Jomboy tumani",
+      "my_uuid": "{FA241F83-C8DA-4245-A003-93520EC8170"
+    },
+    {
+      "id": 36,
+      "name": "Сухроб ака мирбозор",
+      "phone": "+998933427626",
+      "address": "Samarqand viloyati",
+      "my_uuid": "{595D1E32-7325-4F1F-A767-3F867E49B6F"
+    },
+    {
+      "id": 37,
+      "name": "Алибек ака , Янга",
+      "phone": "+998933860009",
+      "address": "Qoraqalpoq",
+      "my_uuid": "{0337A80E-76AE-4CDC-BEFB-B4683C0BA2C"
+    },
+    {
+      "id": 38,
+      "name": "Бобур Сафаров",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{17B1C2EC-0286-4841-A4BA-73ABE6FF955"
+    },
+    {
+      "id": 39,
+      "name": "ОБМЕН ВАЛЮТА",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{514780CA-3AFB-4BF2-8BE3-EC43421216F"
+    },
+    {
+      "id": 40,
+      "name": "Музроб ака Зарафшон",
+      "phone": "",
+      "address": "Навоий вилояти, Зарфшон шахри",
+      "my_uuid": "{271393F4-A2E7-4DE7-B0C2-23476DCE884"
+    },
+    {
+      "id": 41,
+      "name": "Илхом ака Денов",
+      "phone": "",
+      "address": "Сурхондарё вилояти Денов тумани",
+      "my_uuid": "{FC82BA9F-5E42-4D35-AA45-04D57D279F6"
+    },
+    {
+      "id": 42,
+      "name": "Хусниддин  ака Бухоро",
+      "phone": "",
+      "address": "Бухоро вилояти",
+      "my_uuid": "{1AD437E8-9595-498C-8B60-7FBF9F4E062"
+    },
+    {
+      "id": 43,
+      "name": "Уктам ака  Жомбой №1",
+      "phone": "+998977519316",
+      "address": "Самарканд вилояти, Жомбой тумани",
+      "my_uuid": "{DFA90556-30E8-410E-B6FC-D4CCA2F0D4B"
+    },
+    {
+      "id": 44,
+      "name": "Харажат",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AF980F65-32FA-4F87-B239-776A0D14315"
+    },
+    {
+      "id": 45,
+      "name": "Тулкин Ука 29",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{843E69D6-ADFC-427B-B27E-796B87698E9"
+    },
+    {
+      "id": 46,
+      "name": "Огабек",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B2F7DFEE-DE5B-4031-AC88-BAB7DC4499D"
+    },
+    {
+      "id": 47,
+      "name": "Алижон ака  Булунгур",
+      "phone": "+998901930909",
+      "address": "Самарканд вилояти БУлунгур тумани",
+      "my_uuid": "{1D22A2F8-60AD-4DD0-A777-A02BF7EB2BD"
+    },
+    {
+      "id": 48,
+      "name": "Шавкиддин  ака Булунгур",
+      "phone": "+998996660008",
+      "address": "Самарканд вилояти БУлунгур тумани",
+      "my_uuid": "{C48777A3-8DC9-4F0F-9A03-E22D58800A4"
+    },
+    {
+      "id": 49,
+      "name": "Уктам ака жомбой 2   укаси",
+      "phone": "",
+      "address": "Самарканд вилояти Жомбой туман",
+      "my_uuid": "{6563F385-6030-4C6E-A924-B5B9E2B9FE3"
+    },
+    {
+      "id": 50,
+      "name": "-+ фарклар",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C50AAE61-63C1-4B8E-ACF6-0A1B723E91E"
+    },
+    {
+      "id": 51,
+      "name": "Жалолиддин Тошкент",
+      "phone": "+998977224247",
+      "address": "",
+      "my_uuid": "{F62B3738-406B-4CE5-8A9C-A8C1B77C41E"
+    },
+    {
+      "id": 52,
+      "name": "Зокир чилонзор",
+      "phone": "",
+      "address": "Тошкент",
+      "my_uuid": "{FBCB3B7D-14E8-47F7-885D-A69135D57A7"
+    },
+    {
+      "id": 53,
+      "name": "Шавкиддин",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AF310886-FC18-403D-A03D-5DB177FBA64"
+    },
+    {
+      "id": 54,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A9DAF6AD-648C-420E-B882-59F711FBD03"
+    },
+    {
+      "id": 55,
+      "name": "Диллер МИ САМСУНГ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1884CE8A-820C-477C-B116-BF00AE39573"
+    },
+    {
+      "id": 56,
+      "name": "Шохжахон туйтепа",
+      "phone": "",
+      "address": "Тошкент вилояти  Туйтепа тумани",
+      "my_uuid": "{BA57BBDF-3DD3-4115-978B-4A5CA9C365B"
+    },
+    {
+      "id": 57,
+      "name": "Зухриддин ака Китоб",
+      "phone": "",
+      "address": "Кашкадарё вилояти Китоб тумани",
+      "my_uuid": "{112ECC81-2B78-4C81-8AC6-8308BBFCAA1"
+    },
+    {
+      "id": 58,
+      "name": "Одил ака ОРГЕНАЛЧИ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7F01D104-5113-4F4B-98BA-B0436CAE84C"
+    },
+    {
+      "id": 59,
+      "name": "Мухиддин ака Бухоро ОЛОТ",
+      "phone": "",
+      "address": "БУхоро шахри Олот тумани",
+      "my_uuid": "{926918C2-1340-41FF-9618-871293596E0"
+    },
+    {
+      "id": 60,
+      "name": "Исмоил ака R94 ОРГЕНАЛ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{566FB685-3C44-4008-BA49-AE77C081334"
+    },
+    {
+      "id": 61,
+      "name": "Руслан ака чирокчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3BA1B4CF-44B2-4C42-BA29-BB868387112"
+    },
+    {
+      "id": 62,
+      "name": "ЗУхриддин ака янги Котортол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7A6E44D4-B854-43CA-9DC3-4859EC2BE61"
+    },
+    {
+      "id": 63,
+      "name": "Гуля опа",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A0F6A2CF-8335-40FD-B630-25199D0BB3E"
+    },
+    {
+      "id": 64,
+      "name": "Омон ака ОРГЕНАЛ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FD7E4CF9-A565-494E-B437-11F77721E29"
+    },
+    {
+      "id": 65,
+      "name": "Шахбоз ака жондор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DB874BE9-B03E-420F-A9F1-5C70E371FD6"
+    },
+    {
+      "id": 66,
+      "name": "Отабек ака Р9",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{027B9537-B605-41B6-8CF6-EBE1367247A"
+    },
+    {
+      "id": 67,
+      "name": "БАХТИЕР АКА",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1AC0AA7D-4604-4892-B6F4-4F5F693BE3F"
+    },
+    {
+      "id": 68,
+      "name": "Жалол навоий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2E383C3F-39C0-4AA6-9AB2-B881FC04D63"
+    },
+    {
+      "id": 69,
+      "name": "Шерзод ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0D50B0D9-C795-40EE-976A-AA0FAD53BD1"
+    },
+    {
+      "id": 70,
+      "name": "Илёс ака Навоий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A4C6BDD5-D48C-44E7-A469-9E306F7432E"
+    },
+    {
+      "id": 71,
+      "name": "Таня опа",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C31657FE-0BA3-4172-815F-CBE19DFFCA9"
+    },
+    {
+      "id": 72,
+      "name": "Дона сотишга НАКД",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{37697D43-BAF6-4D04-AF27-2651728A5FE"
+    },
+    {
+      "id": 73,
+      "name": "Умрзок Тошкент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{019E5D1D-0AB4-41B5-9805-45C0D04C61C"
+    },
+    {
+      "id": 74,
+      "name": "Аббос ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2C817906-7F13-4E8C-9C88-163F9C7789D"
+    },
+    {
+      "id": 75,
+      "name": "Азамхон малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F7E8E00C-31C2-457D-97A6-6BC4F426BE4"
+    },
+    {
+      "id": 76,
+      "name": "Фахри ака Бухоро  ОПТОМ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{17D435BC-3C15-443C-B8E3-C6798C256FD"
+    },
+    {
+      "id": 77,
+      "name": "Бахтиер ака Иной",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4C62AA4C-4A6C-48B9-9656-4AD1B5077E6"
+    },
+    {
+      "id": 78,
+      "name": "Шерзод малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6096AA9D-F8A4-4E43-AC8D-EB2C77BB40F"
+    },
+    {
+      "id": 79,
+      "name": "Шукур ака Лойиш",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{86E1F3B7-F7EE-4148-9BC8-9EE7E802AED"
+    },
+    {
+      "id": 80,
+      "name": "Хусни ака Навоий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{887BEADF-C244-446F-8711-DE195F4381E"
+    },
+    {
+      "id": 81,
+      "name": "Азим Ака Зомин",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{827E98A0-33D3-40DA-9EB2-D12FDDCD1BB"
+    },
+    {
+      "id": 82,
+      "name": "Шерзод ака челак",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{40D81318-26AA-4876-8A05-2AFC0839152"
+    },
+    {
+      "id": 83,
+      "name": "Мехрож ака Р-88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E54155C6-9B17-4116-B03D-B1711C5A220"
+    },
+    {
+      "id": 84,
+      "name": "Феруз Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{69732A8B-9D9E-4823-863E-E6784E0DD69"
+    },
+    {
+      "id": 85,
+      "name": "Бобур Зарафшон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E38D6A3C-5BC2-47EF-88F6-1265EC455CB"
+    },
+    {
+      "id": 86,
+      "name": "ОБМЕН",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{01694AEB-4755-4FE0-BA46-7AF08540F18"
+    },
+    {
+      "id": 87,
+      "name": "Достон агент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0B5BE423-681A-4242-8F52-818E3666E5B"
+    },
+    {
+      "id": 88,
+      "name": "Акмал Чилонзор Метро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{128D9A0B-3E20-4213-BCBA-03983182C8A"
+    },
+    {
+      "id": 89,
+      "name": "Сарвар Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B8C96589-09FD-491B-8521-C38AE3581AD"
+    },
+    {
+      "id": 90,
+      "name": "Санжар ака Жаркургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{454F168A-6B00-46CE-A643-EF81B7A60AD"
+    },
+    {
+      "id": 91,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3FD3EAB4-9932-4891-8669-31238A03286"
+    },
+    {
+      "id": 92,
+      "name": "Исмоил Селхоз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{57DC7482-E474-406A-A972-4E8139BD61E"
+    },
+    {
+      "id": 93,
+      "name": "Ёдгор косон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{ED454B8F-028E-4E01-B21D-34BA58C49C2"
+    },
+    {
+      "id": 94,
+      "name": "Мамка",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BCE834A8-9FE7-4F96-8724-87D6E59BEFC"
+    },
+    {
+      "id": 95,
+      "name": "Икром ака Туйтепа",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0376B9D1-0A44-45F0-B698-4655340AC88"
+    },
+    {
+      "id": 96,
+      "name": "Анвар ака Фарход бозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{58448977-7FE6-495A-B8DD-4440A2EA992"
+    },
+    {
+      "id": 97,
+      "name": "Дилмурод ака Иной, Ноббе",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{45B4CBDE-1B4C-4BC2-A714-28C0884EC20"
+    },
+    {
+      "id": 98,
+      "name": "Алишер ака Бухоро (Улгуржи)",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{84E45AED-7932-4D79-AA36-1D0EF37F454"
+    },
+    {
+      "id": 99,
+      "name": "Бегзод ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8FFFE98C-08CB-4D4A-9EFB-5BA0B2209E4"
+    },
+    {
+      "id": 100,
+      "name": "Шерзод ака Ангор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F2D48DE1-6147-4B60-BA76-13E4CF872E3"
+    },
+    {
+      "id": 101,
+      "name": "Мирвохид Ака Фарход бозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CED5A196-ED07-488F-9C28-3F22A217FD1"
+    },
+    {
+      "id": 102,
+      "name": "Сирож ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B07B640A-5381-4069-949F-09494184856"
+    },
+    {
+      "id": 103,
+      "name": "Отабек ака Олмали?",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{17DCF2B8-6FEC-4A00-973B-8B0D1EF2F74"
+    },
+    {
+      "id": 104,
+      "name": "СЕРВИС САНЖАР",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{07A1BA90-3CD0-4A5D-9900-AC6D50C6FC7"
+    },
+    {
+      "id": 105,
+      "name": "Азиз ака Охонгарон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2C5474A3-0BBD-4903-B747-0209800A104"
+    },
+    {
+      "id": 106,
+      "name": "Шерзод ака Газалкент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2218398E-8757-48CD-984C-300C34C8C07"
+    },
+    {
+      "id": 107,
+      "name": "Одил ака мирбозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E64C59A8-41DF-4A70-95BA-D0D47357CC7"
+    },
+    {
+      "id": 108,
+      "name": "Жасур ака Мирбозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0DB80EA8-FC16-493C-9B69-D929BC19A7F"
+    },
+    {
+      "id": 109,
+      "name": "Абдурашид ака Чилонзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6B429461-051C-4A0D-B84C-195B91BA3D6"
+    },
+    {
+      "id": 110,
+      "name": "Бегзод ака Зарафшон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{05E592CA-97C9-4E4A-8150-8D9B01543F0"
+    },
+    {
+      "id": 111,
+      "name": "Миркамол чирокчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D38F16B3-4F8D-43A4-BE6E-395C7315F88"
+    },
+    {
+      "id": 112,
+      "name": "Камолиддин ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BDE813D6-E02E-4FBD-886B-3B19F8A9AE5"
+    },
+    {
+      "id": 113,
+      "name": "Абдуллох Музроббод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F5B75902-E53A-4471-AFE1-40752D37D19"
+    },
+    {
+      "id": 114,
+      "name": "Сиёвуш Бустонлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2EC1537D-ADE3-402B-9090-85B3BCDA7E0"
+    },
+    {
+      "id": 115,
+      "name": "Бахром ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1C00FB29-9270-4C8F-8FA1-B3118E82A60"
+    },
+    {
+      "id": 116,
+      "name": "АСТАТКА 21-08-2020",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4ABCDE57-4D4B-4159-8E91-8F249AE8CB4"
+    },
+    {
+      "id": 117,
+      "name": "Нигора опа Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F528DFB8-BD9E-47AB-842E-24740BFFD21"
+    },
+    {
+      "id": 118,
+      "name": "Баходир ака Фориш Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{95D84FB1-3D6B-422A-9807-F805C46514A"
+    },
+    {
+      "id": 119,
+      "name": "Бахтиер ака янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CDC08794-0D99-4C01-9FC9-C669A49856E"
+    },
+    {
+      "id": 120,
+      "name": "Гулом ака Р-53",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E17ED3FF-B2FA-494E-9DB6-80477B060E1"
+    },
+    {
+      "id": 121,
+      "name": "Иззатилла Хамкор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B0F03921-0CF3-418A-9379-B350277F3FA"
+    },
+    {
+      "id": 122,
+      "name": "Неъмат ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{19CC1734-FD64-4BCF-BA2F-F7AE657E2EA"
+    },
+    {
+      "id": 123,
+      "name": "Саидакбар 100",
+      "phone": "+998951702777",
+      "address": "",
+      "my_uuid": "{4B821509-F7E9-4FC8-910C-8893EE2B8A0"
+    },
+    {
+      "id": 124,
+      "name": "Р99",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1C9399DD-BBDE-4BDF-8513-0BA81F3E6F7"
+    },
+    {
+      "id": 125,
+      "name": "Уткир ака ГУлистон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{33FFFBBD-B986-4F4C-BB93-E60FA33BD60"
+    },
+    {
+      "id": 126,
+      "name": "Тулкин ака Музробод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{16375665-CFC0-40DC-9EEE-5F93D848EC4"
+    },
+    {
+      "id": 127,
+      "name": "Рихситилла Абу сахий 86",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8240AEC6-C15A-45CB-B3FF-6DCE822173A"
+    },
+    {
+      "id": 128,
+      "name": "Бек ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EEAB8F3E-8A5B-453E-9ADC-0B1E343B4A6"
+    },
+    {
+      "id": 129,
+      "name": "Фарход Р-103",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0C0A0E82-A998-430D-BBF1-BD73A85598E"
+    },
+    {
+      "id": 130,
+      "name": "Гулом ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{59AAC298-174A-44B0-9278-AC1EE7725A4"
+    },
+    {
+      "id": 131,
+      "name": "Фуркат ака янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F2469F82-1953-4718-B8AC-723B8BA8D7B"
+    },
+    {
+      "id": 132,
+      "name": "Сирож ака Зарафшон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5CA082CA-2E05-4D41-9504-6A8183EE744"
+    },
+    {
+      "id": 133,
+      "name": "Рахматилло ака Андижон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3CCD411C-7E94-4187-B8F3-4D4FC7A5D11"
+    },
+    {
+      "id": 134,
+      "name": "Сохиб ака янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CBECC1C7-64BE-4B5C-B6F4-65EEC41F47D"
+    },
+    {
+      "id": 135,
+      "name": "Музаффар ака сирдарё",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6781DD70-7EC2-4A1F-8322-5EE1EA85B48"
+    },
+    {
+      "id": 136,
+      "name": "Камариддин Ака Пайарик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1A35CB4F-0806-4EE5-B8AF-C1FDF6B7DAD"
+    },
+    {
+      "id": 137,
+      "name": "Рамер ака Коракалпок",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{328CDA3B-C367-4EC1-937B-1EC626763FB"
+    },
+    {
+      "id": 138,
+      "name": "Ортик ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E11CCDCC-FB8B-4954-9205-DBBD5C91DE6"
+    },
+    {
+      "id": 139,
+      "name": "Нодир ака Р-83",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{58673723-2170-4638-8890-0AF257EDE33"
+    },
+    {
+      "id": 140,
+      "name": "ДАДАХОН КАССА",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DA65EA8D-3FB8-4D15-85A3-7466187D5CD"
+    },
+    {
+      "id": 141,
+      "name": "ФАРХОД АКА",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F99EF402-0EEC-4F23-99E3-96F714F0559"
+    },
+    {
+      "id": 142,
+      "name": "Даврон Хамкор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DE0DB8B8-84A5-4155-9D5D-48C99FD4404"
+    },
+    {
+      "id": 143,
+      "name": "Жасур Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A246581A-1F1C-4809-A9EB-75E791EA3F9"
+    },
+    {
+      "id": 144,
+      "name": "Диля опа муборак",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{16F17CB9-1F5B-43DC-856D-E5E3FFBDD69"
+    },
+    {
+      "id": 145,
+      "name": "Жахонгир ака Назарек",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7AD8793A-4734-4185-A3D2-6F69956B170"
+    },
+    {
+      "id": 146,
+      "name": "Мавлон ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9AEB977A-1277-426B-9275-1F41C9C7C61"
+    },
+    {
+      "id": 147,
+      "name": "Ориф ака Паркент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4EBCE32F-900D-4C36-8208-1B04A34206A"
+    },
+    {
+      "id": 148,
+      "name": "Тулкин ака Паркент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B7062504-1AA0-4955-9D51-46CD857F01D"
+    },
+    {
+      "id": 149,
+      "name": "Шерзод ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6B430ED6-2113-400C-A2CE-BC505A5A235"
+    },
+    {
+      "id": 150,
+      "name": "Музафар ака Нурорта",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7483074B-09C5-44C9-8628-7F4CE1F29F2"
+    },
+    {
+      "id": 151,
+      "name": "Шахбоз ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E0D80393-4012-461C-AE94-5E0151A696C"
+    },
+    {
+      "id": 152,
+      "name": "Отабек ака Газалкент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AD687F05-06DD-4353-A225-00A0F94BD6C"
+    },
+    {
+      "id": 153,
+      "name": "Диловор Ангрен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E3109355-F6D8-4C13-9141-BF3744E4EDC"
+    },
+    {
+      "id": 154,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{555A7534-ACBC-4DB0-BC73-1FA36332897"
+    },
+    {
+      "id": 155,
+      "name": "Фаррух каттакургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{65C548C8-B229-48DB-80B4-F33F5D6ADD2"
+    },
+    {
+      "id": 156,
+      "name": "Шахзод ЦУМ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{ED4785DE-0335-4113-8D33-47BCFEF1F94"
+    },
+    {
+      "id": 157,
+      "name": "ОЙбек ака Чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A28C3F15-1976-4A26-95B8-5731A7F4229"
+    },
+    {
+      "id": 158,
+      "name": "Хасан ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AD5D8350-8994-4D9D-A6AA-F8B21B0A200"
+    },
+    {
+      "id": 159,
+      "name": "Самар Бекобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{218712FF-5DE2-46A8-AABE-AACAF962402"
+    },
+    {
+      "id": 160,
+      "name": "Жавохир янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0C284773-DBC3-46DD-BACF-0471641F5AF"
+    },
+    {
+      "id": 161,
+      "name": "Мухриддин ака янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FB87642D-D2B6-401F-8C5D-C540F97E1C5"
+    },
+    {
+      "id": 162,
+      "name": "Журъат Р-91",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{43274869-8ADF-443D-966A-F35790B5806"
+    },
+    {
+      "id": 163,
+      "name": "Бекзод Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9B9B9F32-AD2E-4DDD-B940-F434CE96BF0"
+    },
+    {
+      "id": 164,
+      "name": "Алишер ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0E8F084E-4FAA-4034-B58A-83D87980EB6"
+    },
+    {
+      "id": 165,
+      "name": "Обод Ака Турткул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E17D3CAF-2FC4-46CD-8B26-059F8CCFBA7"
+    },
+    {
+      "id": 166,
+      "name": "Набижон ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{19BCE6E8-0C93-4228-96E9-F37E994C21F"
+    },
+    {
+      "id": 167,
+      "name": "Даврон ака Галлаорол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{89AF0BC4-32C3-4DAD-B4C7-20138EFE15C"
+    },
+    {
+      "id": 168,
+      "name": "Нурбек Интернет магазен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{675C04AD-54A9-497B-B9A1-A4B7B713B15"
+    },
+    {
+      "id": 169,
+      "name": "Сардор Р-90",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3F878D16-A193-4BFF-AB46-B941669FF4B"
+    },
+    {
+      "id": 170,
+      "name": "Искандар Фориш Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{46BBD9A0-3CC7-49F2-AB66-DC7F6158C54"
+    },
+    {
+      "id": 171,
+      "name": "Абдусамат Р-98",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C8078340-C38B-4829-A5C7-F4140036314"
+    },
+    {
+      "id": 172,
+      "name": "Азиз ака Р-87",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{95169055-3899-4F8B-BAAB-DC4B776857A"
+    },
+    {
+      "id": 173,
+      "name": "Жавохир малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4DC45AA9-CAB3-435A-8E8A-A51A812D638"
+    },
+    {
+      "id": 174,
+      "name": "Бахром ЗАрафшон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F2B6380B-7CA4-4B49-906C-98C765864B4"
+    },
+    {
+      "id": 175,
+      "name": "Рахматилла ака Андижон",
+      "phone": "+998916015454",
+      "address": "",
+      "my_uuid": "{E696304F-CF46-412C-96E1-B7F9C6DDB2D"
+    },
+    {
+      "id": 176,
+      "name": "Нурсултон Жиззах Галлаорол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6960DA57-E1E9-43B4-AA03-5EFEBE54258"
+    },
+    {
+      "id": 177,
+      "name": "Ойбек ака Жиззах галлаорол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{60CCD68B-975B-45D8-9950-941BF1E8D91"
+    },
+    {
+      "id": 178,
+      "name": "Сирож ака Янгийул",
+      "phone": "+998994000750",
+      "address": "",
+      "my_uuid": "{AD2E91EB-542A-4A18-B258-FC76BC69924"
+    },
+    {
+      "id": 179,
+      "name": "Нафиса опа Навоий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B0667ECD-DE68-409F-BE58-B816DD0A7B9"
+    },
+    {
+      "id": 180,
+      "name": "Бахриддин ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3A6B68AF-227D-4954-B3EC-79380850280"
+    },
+    {
+      "id": 181,
+      "name": "Достон Ягийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1D33E216-6FF6-4885-AFDB-EE5BF2BB867"
+    },
+    {
+      "id": 182,
+      "name": "Диёр ака Чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3D4EAD5D-7440-425C-AD47-AFDA01AA04F"
+    },
+    {
+      "id": 183,
+      "name": "Дилмурод ака Р-96",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BF63D5D9-EC45-4E70-A830-E72D20BD2D8"
+    },
+    {
+      "id": 184,
+      "name": "Дилмурод ака р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DE8AE2C0-4B9A-47E3-A46B-F0669162AA8"
+    },
+    {
+      "id": 185,
+      "name": "Нафиса опа бонус",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2743DAD4-B5A0-4AD4-8BE5-B84C57FFBD3"
+    },
+    {
+      "id": 186,
+      "name": "Бегзод ака Каттакургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0825D2FE-38C0-4726-885F-E4B40331467"
+    },
+    {
+      "id": 187,
+      "name": "Рустам ака янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{53555F6F-4C82-40D0-B12A-F52586DE862"
+    },
+    {
+      "id": 188,
+      "name": "Шахбоз ака кадишева",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{71E22827-1768-4D79-8FD7-CC2F7F8EADF"
+    },
+    {
+      "id": 189,
+      "name": "Хуршид Малика А27",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{824E7605-D6C1-4BC3-A714-553CB8B4F8C"
+    },
+    {
+      "id": 190,
+      "name": "Отабек Янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{17F3D418-5083-49CE-BA4B-FA0FD2E1303"
+    },
+    {
+      "id": 191,
+      "name": "Азамжон ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{16901A27-EDC6-48DE-8D80-4D659B41445"
+    },
+    {
+      "id": 192,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{54502E8F-5A35-4572-A23F-4E6533B266F"
+    },
+    {
+      "id": 193,
+      "name": "Илхом ака ТУйтепа",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AAF21C4C-E752-4099-BDBC-23844A737AC"
+    },
+    {
+      "id": 194,
+      "name": "Суннат Зарбдор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B2897DB8-6FFF-4226-892F-9FD1278D5DE"
+    },
+    {
+      "id": 195,
+      "name": "Фаррух ака  Р-97",
+      "phone": "+998935096026",
+      "address": "",
+      "my_uuid": "{F1A80303-27BD-4CB1-A270-D76121670AD"
+    },
+    {
+      "id": 196,
+      "name": "Акбар ака Бойсун",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1BFEF03D-D24E-4332-9440-DFD8199DB77"
+    },
+    {
+      "id": 197,
+      "name": "Умид ака шахрисабз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F3FA24FB-49BD-49DE-8703-3B522049BB8"
+    },
+    {
+      "id": 198,
+      "name": "Бахтиер ака Нукус",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0AD52C06-FF7B-492A-AC89-C8EEA5EF0F9"
+    },
+    {
+      "id": 199,
+      "name": "Феруз ака Селхоз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2B4209DE-2DC0-430E-B078-6691FC655BA"
+    },
+    {
+      "id": 200,
+      "name": "Журьат Р-78",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7F7E57D2-107F-49FF-AD75-4D0D2D232CF"
+    },
+    {
+      "id": 201,
+      "name": "Азиз ака Куйи чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EBEFE8E7-0FA8-4A13-84D5-C5042BB5C7C"
+    },
+    {
+      "id": 202,
+      "name": "Анвар ака янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EF51CAFD-C314-480C-BD2C-B52CA1E715D"
+    },
+    {
+      "id": 203,
+      "name": "Достон ака  Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AD0233AA-3DCB-42A8-8DEB-E1B990F61C2"
+    },
+    {
+      "id": 204,
+      "name": "Журъат ака Урганч",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3DFCB11D-51E6-4694-85C8-42B9A2BFEF8"
+    },
+    {
+      "id": 205,
+      "name": "Журъат ака Урганч",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5847A222-68EA-40B8-B266-D1E1DD9ECF6"
+    },
+    {
+      "id": 206,
+      "name": "Акмал ака Бекбарака",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FD4F236B-8E76-4014-AB78-400013A3B54"
+    },
+    {
+      "id": 207,
+      "name": "Фарход ака Р100",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{08F95C68-85D9-4554-84A4-69480FDA690"
+    },
+    {
+      "id": 208,
+      "name": "Комол Р63",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C7B9D2CD-48DB-4B1B-A551-3CD9FA7AA54"
+    },
+    {
+      "id": 209,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4EB3E0C7-C264-489B-9F68-99BACF84434"
+    },
+    {
+      "id": 210,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BC5FEE80-7C78-4B45-8271-58C85155CCA"
+    },
+    {
+      "id": 211,
+      "name": "Мурод ака ТТЗ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A051D6CD-A25A-4923-892A-4774EACBB44"
+    },
+    {
+      "id": 212,
+      "name": "Азиз ака Р62",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5946E6CD-62AB-46AB-911E-BAA0696EA4C"
+    },
+    {
+      "id": 213,
+      "name": "Фаррух ака паркент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{782C3546-35D5-454A-81FD-F6F3B614339"
+    },
+    {
+      "id": 214,
+      "name": "Абдувохид ака Р-77",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{940D848B-3FAD-4B07-9185-C6E60BEEE62"
+    },
+    {
+      "id": 215,
+      "name": "Фахриддин ака Гиждивон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8C6A2B72-EE09-490D-8A36-D54A024D8E6"
+    },
+    {
+      "id": 216,
+      "name": "Элёр ака Жаркургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{93C8A47B-FC95-4C2D-B097-3E7187093CE"
+    },
+    {
+      "id": 217,
+      "name": "Баходир Р74",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D824DEB8-B707-41E3-8C96-286FF130974"
+    },
+    {
+      "id": 218,
+      "name": "Рахматилла ака Андижон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7F4BB646-612A-4F64-9F04-13B4BEA04E9"
+    },
+    {
+      "id": 219,
+      "name": "Азиз ака Газалкент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{493503C5-E995-4BC0-A7A9-AD19A8440D1"
+    },
+    {
+      "id": 220,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A91A32EC-A3E2-4ED0-AB6B-C28AD3DCA01"
+    },
+    {
+      "id": 221,
+      "name": "Бобур ака Бекобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{82EBCA46-6EA4-4E31-819A-346CF18141C"
+    },
+    {
+      "id": 222,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6BB1DFE9-ECFB-4336-A2CA-C8DA111537A"
+    },
+    {
+      "id": 223,
+      "name": "Азиз Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5B8ECFB8-35C9-4A4A-9FAD-AE136B75323"
+    },
+    {
+      "id": 224,
+      "name": "Шерзод ака паркент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8CD134D8-86DA-4B9C-9933-9B9FB1E995B"
+    },
+    {
+      "id": 225,
+      "name": "Шерзод ака Сурхон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B8E76C74-5336-4F06-AE89-AF684FF7A73"
+    },
+    {
+      "id": 226,
+      "name": "Мухаммадали ака Ф,Б",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FB3A5F5B-48DC-42B9-A8E5-4C8A48090C4"
+    },
+    {
+      "id": 227,
+      "name": "Фарход ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D1E9DD71-0820-49D5-A603-71F830908F3"
+    },
+    {
+      "id": 228,
+      "name": "Комил ака чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A284382E-B84E-4396-AAAC-5B57B962C78"
+    },
+    {
+      "id": 229,
+      "name": "Абдухалил ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{69070ACF-0107-498F-804E-3E10E9FD143"
+    },
+    {
+      "id": 230,
+      "name": "Азамат Р61",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7CE937D1-6F90-4273-A043-89DA6E65258"
+    },
+    {
+      "id": 231,
+      "name": "Мухаммаджон р64",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F97D69E7-B58F-41DB-900F-301565A8FFE"
+    },
+    {
+      "id": 232,
+      "name": "Дилшод ака R86",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A73E0F65-C3A5-4BCC-A870-DD51A461010"
+    },
+    {
+      "id": 233,
+      "name": "Наима Паркент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F9D4B196-E33C-4BA9-94D9-6B9BA0FC3B4"
+    },
+    {
+      "id": 234,
+      "name": "Сирожиддин Хавос",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1BD78AE5-9A01-4B86-8D72-897564186DF"
+    },
+    {
+      "id": 235,
+      "name": "Фаррух ака Малика+янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A80CA63A-60F2-4319-BE5A-988E533882D"
+    },
+    {
+      "id": 236,
+      "name": "Азиз ака Р83",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0FB5B935-0E2E-4DC0-9345-11D529849BD"
+    },
+    {
+      "id": 237,
+      "name": "Бахтиер ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{734B1FE0-7639-4805-8167-4A54C40BF96"
+    },
+    {
+      "id": 238,
+      "name": "Шохида опа Беруний",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E713E070-F48C-4F41-B946-17F0CA341E8"
+    },
+    {
+      "id": 239,
+      "name": "Хусан ака Тошкент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B86AF217-D6D4-4F78-9454-06CA48B2814"
+    },
+    {
+      "id": 240,
+      "name": "Улугбек ака Коракалпок",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4D5F3113-7877-475B-9A04-8FC85F174B0"
+    },
+    {
+      "id": 241,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{27AC2FA4-A574-4498-BE71-7959D6B5897"
+    },
+    {
+      "id": 242,
+      "name": "Шариф ака Р75",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CEA73DFB-612D-40AC-A2B0-A737361D101"
+    },
+    {
+      "id": 243,
+      "name": "Сарвар ака Котортол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{35749666-80C1-4E55-8BA7-DB45519DA70"
+    },
+    {
+      "id": 244,
+      "name": "ТЕХНО ИШОНЧ ИМПЕКС МЧЖ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CCF84930-8B5D-4571-A093-2FB428096B6"
+    },
+    {
+      "id": 245,
+      "name": "Умид ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A6B23617-2181-4F70-B326-5CC0FC78E5B"
+    },
+    {
+      "id": 246,
+      "name": "Ойбек ака Андижон",
+      "phone": "+998990037271",
+      "address": "",
+      "my_uuid": "{45FD03D0-E746-45DB-9B5A-A720F723DA3"
+    },
+    {
+      "id": 247,
+      "name": "Умид ака Бозор Р98",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{695DE758-C7B1-438D-AF39-0ADCD715D6D"
+    },
+    {
+      "id": 248,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1F191019-28F4-4E90-B794-63115623E34"
+    },
+    {
+      "id": 249,
+      "name": "Сирожиддин ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C90A64AE-3B16-4D49-A925-A0C4C0AC0AE"
+    },
+    {
+      "id": 250,
+      "name": "Ахмад ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AA8061A8-231E-467C-9541-B8776AEC30E"
+    },
+    {
+      "id": 251,
+      "name": "Рустам ака Фарход бозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3B2C767C-704A-4F66-A2DA-3390365B5BA"
+    },
+    {
+      "id": 252,
+      "name": "Мухаммадмусо хамкор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6AFEF58C-BB99-47A3-844F-BF521D57DA4"
+    },
+    {
+      "id": 253,
+      "name": "Рустам ака мирбозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9692A676-7AFE-4C03-AFFA-1D3E85A9E37"
+    },
+    {
+      "id": 254,
+      "name": "Фарход ака R31",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8039BF86-892B-44E9-974B-334838CBA4A"
+    },
+    {
+      "id": 255,
+      "name": "Улугбек ака R93",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{87723822-383E-4E49-A09B-FDE14513C7E"
+    },
+    {
+      "id": 256,
+      "name": "Абдусаттор ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9655E834-C7DC-4C06-9F4B-82A9201142B"
+    },
+    {
+      "id": 257,
+      "name": "Мухаммадсодик ака Бекобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EA5DEA05-3E64-4269-958E-1B0622A6257"
+    },
+    {
+      "id": 258,
+      "name": "Хумоюн малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{22985222-BE75-44CA-B1BC-11876FE70B9"
+    },
+    {
+      "id": 259,
+      "name": "Азим Малика А-блок",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{592599AE-F62D-43E6-A623-F2EBF786548"
+    },
+    {
+      "id": 260,
+      "name": "Р65 Дукон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9730FD00-3795-45F5-884D-96CA5D25A22"
+    },
+    {
+      "id": 261,
+      "name": "Шохрух Нукус",
+      "phone": "+998932015551",
+      "address": "",
+      "my_uuid": "{B9610DC8-3EE8-4A4C-9BE0-6646C111940"
+    },
+    {
+      "id": 262,
+      "name": "Фазлиддин ака Андижон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DE64428C-D48F-4C7D-AD80-D642B09E0E8"
+    },
+    {
+      "id": 263,
+      "name": "Икром ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A31C60A9-AC75-42EB-B22A-CD82DAC83EA"
+    },
+    {
+      "id": 264,
+      "name": "А.Сахий интернет магазен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{97C12FB1-0B73-411B-9289-D2870784D29"
+    },
+    {
+      "id": 265,
+      "name": "Эркин Ака Р69",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{58A8CE12-33B7-4170-ACA8-5AF07D80E5C"
+    },
+    {
+      "id": 266,
+      "name": "Фаррух Ака ХАМКОР",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{670337B1-E2E8-4195-92EE-9421BB43F2A"
+    },
+    {
+      "id": 267,
+      "name": "Камрон Ака Янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{17C8B799-46B7-4F9C-80F8-28DA8E5D3E4"
+    },
+    {
+      "id": 268,
+      "name": "Суннат ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F9677CB7-B042-4789-AC54-E035B7E3ABB"
+    },
+    {
+      "id": 269,
+      "name": "Ислом Шахрисабз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6E07F078-BB8C-41CE-9BD1-269385A21FE"
+    },
+    {
+      "id": 270,
+      "name": "Салохиддин П84",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6AF5E0C5-D9EF-4D83-9ED6-B1AC120B75E"
+    },
+    {
+      "id": 271,
+      "name": "Ахрор ака туйтепа",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{81733AC0-1327-4739-8D95-628A8FCA8F0"
+    },
+    {
+      "id": 272,
+      "name": "Бунёд ака Турткул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DE93F8D1-55E6-42E1-932B-720798120A4"
+    },
+    {
+      "id": 273,
+      "name": "Шухрат ака Пискент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2D3BC0B3-7F8A-408B-9C35-ADE3144CF17"
+    },
+    {
+      "id": 274,
+      "name": "Азамат ака ТТЗ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6EE29438-4259-4D69-AAB1-290D7CD4C47"
+    },
+    {
+      "id": 275,
+      "name": "Жаслук ака Нукус",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{66210054-CCA1-487D-BCAB-277AF78A894"
+    },
+    {
+      "id": 276,
+      "name": "Музаффар ака Гулистон ОПТОМЧИ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BE7F847D-0A8A-4829-A0D0-1E4996138EF"
+    },
+    {
+      "id": 277,
+      "name": "Р90",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BFE2E6BA-91C9-4345-B5D8-A998D7082E3"
+    },
+    {
+      "id": 278,
+      "name": "ПЛАСТИККА ОРТИКЧА ПУЛ ТУШГАН",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F6C81B16-C7A3-4FB8-8A3E-0CABCB34FD9"
+    },
+    {
+      "id": 279,
+      "name": "Кодир ака Куйи Чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{061BAFD8-B094-4161-9096-3752F454116"
+    },
+    {
+      "id": 280,
+      "name": "Дониер Ога Р35",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{049088D3-B667-4A3A-8D0B-8A34B6C6A15"
+    },
+    {
+      "id": 281,
+      "name": "Бунёд ака янги йул",
+      "phone": "975377878",
+      "address": "",
+      "my_uuid": "{9D053860-57AD-4315-B78C-D7C016653FF"
+    },
+    {
+      "id": 282,
+      "name": "Абдурахим хамкор",
+      "phone": "931054801",
+      "address": "",
+      "my_uuid": "{B39613D7-9BFE-4571-8215-E478B0B8B0F"
+    },
+    {
+      "id": 283,
+      "name": "Акбар Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8357A02E-4675-4E0C-99C6-2A2E49E8E22"
+    },
+    {
+      "id": 284,
+      "name": "Шахбоз Р-63",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0F3CE27C-CA81-4084-9AD1-98B1A8611B5"
+    },
+    {
+      "id": 285,
+      "name": "Абдувакил ака интернет магазин",
+      "phone": "998797662",
+      "address": "",
+      "my_uuid": "{18770AF7-04CF-412E-B6C1-98135354DE9"
+    },
+    {
+      "id": 286,
+      "name": "Фазлиддин Р84",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D33D3875-7874-4093-9BED-30FC61FD230"
+    },
+    {
+      "id": 287,
+      "name": "Ойбек ака мангит Амударё",
+      "phone": "937746700",
+      "address": "",
+      "my_uuid": "{8F9E5685-696B-4975-961C-A3C6140849C"
+    },
+    {
+      "id": 288,
+      "name": "Султонбек ака Интернет магазен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D2BECFED-E9BC-4E97-B2DE-66F3FD1025B"
+    },
+    {
+      "id": 289,
+      "name": "Шахобиддин Кизирик Сурхон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{56C2E214-8574-495E-A7DF-4AB80926A9D"
+    },
+    {
+      "id": 290,
+      "name": "Улугбек ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1A7B7519-62B4-4131-87F9-C7A7FDBFEBC"
+    },
+    {
+      "id": 291,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{20CCD34E-3050-43AB-9791-620A23E8AD9"
+    },
+    {
+      "id": 292,
+      "name": "Дониер ака Околтин Мижоз",
+      "phone": "945814848",
+      "address": "",
+      "my_uuid": "{4F6C89DD-16AE-4871-8778-3149DC550FD"
+    },
+    {
+      "id": 293,
+      "name": "Дилшод ака Назарбек",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{878CBD3F-A1B1-4999-8F22-DD0F0B68179"
+    },
+    {
+      "id": 294,
+      "name": "Тулкин ака Жаркургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1BFA7329-30C0-452A-8831-E7526C369FF"
+    },
+    {
+      "id": 295,
+      "name": "Бобур ака Жонбой",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8CF3BAE1-4736-4184-9948-C7D845EA3AD"
+    },
+    {
+      "id": 296,
+      "name": "Жавлон Навоий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8C6274E1-8F4F-40C0-97F7-78199B01D8D"
+    },
+    {
+      "id": 297,
+      "name": "Шохсанам Опа Чиноз",
+      "phone": "973477555",
+      "address": "",
+      "my_uuid": "{15CC1DF6-D636-41E2-85FA-D19C5882D98"
+    },
+    {
+      "id": 298,
+      "name": "Дилшод Чилонзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8D4AFBD6-0BE5-4769-87F0-7EA23DDC5BB"
+    },
+    {
+      "id": 299,
+      "name": "Миркамол Гулистон",
+      "phone": "949124662",
+      "address": "",
+      "my_uuid": "{C643C54A-7D41-4D01-9DBD-4669F56076D"
+    },
+    {
+      "id": 300,
+      "name": "Музаффар Ака Р-63 ОПТОМ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6423CCAA-3902-4536-86A8-C8A4C989893"
+    },
+    {
+      "id": 301,
+      "name": "Анвар Интернет магазен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A04983EB-0D9C-4462-BF42-0F0D99B8A01"
+    },
+    {
+      "id": 302,
+      "name": "Абдуллох ака Абу сахий F103",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{770CBE35-5DAD-45AE-B3E7-0FAE46A4117"
+    },
+    {
+      "id": 303,
+      "name": "Темур ака Гулистон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{588C720C-0529-4590-9418-BED502ADA66"
+    },
+    {
+      "id": 304,
+      "name": "Азамат ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{362B6518-9891-49D8-9DC9-0BBAF2FC15E"
+    },
+    {
+      "id": 305,
+      "name": "Шухрат ака Самарканд дарвоза",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1453D10C-71A3-4398-9F3B-09692FFC53F"
+    },
+    {
+      "id": 306,
+      "name": "Хайдар ака Урганч",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{843897C5-B84C-4E73-9ABF-81A7C6C173E"
+    },
+    {
+      "id": 307,
+      "name": "Мурод ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{97532522-6EEC-4C37-8F71-4B5E80D35BD"
+    },
+    {
+      "id": 308,
+      "name": "Асадбек ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EF6845F4-C961-4EF2-9DBD-0ED6AE5D367"
+    },
+    {
+      "id": 309,
+      "name": "Икром ака Р36",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EB2128F3-7534-4458-9629-B340909D6F5"
+    },
+    {
+      "id": 310,
+      "name": "Убайдулло ака Сайхунобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{81614B83-AC0B-4A9A-B52B-D8BF1C4E6B8"
+    },
+    {
+      "id": 311,
+      "name": "Жафар ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9C9839E4-F20E-4132-8253-B28DAD8870D"
+    },
+    {
+      "id": 312,
+      "name": "Шерзод ака Булунгур",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E85DFB51-4457-4D2A-8C98-932014C3B90"
+    },
+    {
+      "id": 313,
+      "name": "Элдор ака Касби",
+      "phone": "99 000 01 32",
+      "address": "",
+      "my_uuid": "{56BE8F93-1AE6-4248-B15E-E85CDA2A442"
+    },
+    {
+      "id": 314,
+      "name": "Зафар ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1448F865-AFE0-454F-ADDB-CD0065406F2"
+    },
+    {
+      "id": 315,
+      "name": "Садулла ака Сиёб",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4C228C17-E049-4FCD-A650-CC649A9A96E"
+    },
+    {
+      "id": 316,
+      "name": "Шахоб ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{87B0212F-16C5-4DAA-9E66-1C6F449953A"
+    },
+    {
+      "id": 317,
+      "name": "Умид ака Сурхондарё",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AAD6F1F8-1091-426A-BC1D-CC700D0E7EF"
+    },
+    {
+      "id": 318,
+      "name": "Кодир ака Куйичирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{659031F3-A24D-4154-879F-A4147F159F5"
+    },
+    {
+      "id": 319,
+      "name": "Аббос хамкор Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{86BF3F22-2C98-4AA8-915B-79AC31CA317"
+    },
+    {
+      "id": 320,
+      "name": "Абдужаббор ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B6658624-1712-4ED1-A13F-1436D87146D"
+    },
+    {
+      "id": 321,
+      "name": "Жавлон Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4A7886C2-FD30-4B87-822B-AD169BAD494"
+    },
+    {
+      "id": 322,
+      "name": "Мухиддин ака Олот 2",
+      "phone": "93 4582555",
+      "address": "",
+      "my_uuid": "{3C14E7E8-FE6B-4263-9E50-15C1D0D53A4"
+    },
+    {
+      "id": 323,
+      "name": "Шахзод ака Зарафшон",
+      "phone": "99 5572734",
+      "address": "",
+      "my_uuid": "{3A41B778-7F6E-40B3-AF77-280DE7E9547"
+    },
+    {
+      "id": 324,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0CAF669D-5AB1-4BFC-A9BF-BF95BFE41C5"
+    },
+    {
+      "id": 325,
+      "name": "Мухаммад диёр Малика",
+      "phone": "93 0055041",
+      "address": "",
+      "my_uuid": "{173BF9E3-47B7-4173-BA45-27BD3F9E628"
+    },
+    {
+      "id": 326,
+      "name": "Мурод ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{78EEB102-9E6D-458C-930F-37609DAC8AF"
+    },
+    {
+      "id": 327,
+      "name": "Абдурахим ака Малика",
+      "phone": "93 5991111",
+      "address": "",
+      "my_uuid": "{760B1449-19A1-4678-9A02-3E9D53F8529"
+    },
+    {
+      "id": 328,
+      "name": "Саид ака Р97",
+      "phone": "99 7875060",
+      "address": "",
+      "my_uuid": "{6CAE13DE-4E14-4003-86A9-EB17D65D5A1"
+    },
+    {
+      "id": 329,
+      "name": "Машраф ака Каттакургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1AC556EE-9797-47F6-98F5-0614916E851"
+    },
+    {
+      "id": 330,
+      "name": "Достон ака Жума",
+      "phone": "93 227 00 00",
+      "address": "",
+      "my_uuid": "{EF1E6868-C92B-453C-84E6-390DF76111C"
+    },
+    {
+      "id": 331,
+      "name": "Акмал ака Келес",
+      "phone": "946786262",
+      "address": "",
+      "my_uuid": "{93415EDE-3A83-4B8F-8961-9DD9D7FAA75"
+    },
+    {
+      "id": 332,
+      "name": "Абдулазиз ака клент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C0D3830E-5A4E-40D7-B890-1DFD8A9472A"
+    },
+    {
+      "id": 333,
+      "name": "Бахтиёр Хурамов (масжид)",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9FC51264-038D-4303-945D-43C04B3929C"
+    },
+    {
+      "id": 334,
+      "name": "Масжидга йигилган пул  клик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A1397FD1-AD9F-491A-A560-EBF4A6042CF"
+    },
+    {
+      "id": 335,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3DBB1BFF-A81E-4AE0-A10F-22462DC5DC3"
+    },
+    {
+      "id": 336,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5BF51F6D-BAB2-4F69-9BCE-A6A1E2E3E37"
+    },
+    {
+      "id": 337,
+      "name": "Шамшод Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E54D6B25-FBF1-4F7D-AD5B-DCC6C02AC7B"
+    },
+    {
+      "id": 338,
+      "name": "Шамшод Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9168480E-A571-4987-BED8-FCEFA10A177"
+    },
+    {
+      "id": 339,
+      "name": "Ислом Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{394385A8-5800-4246-BEC1-B027259767C"
+    },
+    {
+      "id": 340,
+      "name": "Ислом Ака Хива Жамшид",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{425FF21E-C198-4238-B253-A80F528267D"
+    },
+    {
+      "id": 341,
+      "name": "Бобур Пластикка олган пул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4B2199B0-3F95-4359-A469-81C699D1F93"
+    },
+    {
+      "id": 342,
+      "name": "Асосий восита Кондиционер Дуконники",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9BAB0C7B-9011-4DE2-A672-7CE43AE326F"
+    },
+    {
+      "id": 343,
+      "name": "Икром ака Навоий",
+      "phone": "942231991",
+      "address": "",
+      "my_uuid": "{4CA1A7FE-9066-48BD-8A08-252921B32C2"
+    },
+    {
+      "id": 344,
+      "name": "Мунира Косон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7D1D9732-9AD4-4FDB-98F8-AF3DD08E568"
+    },
+    {
+      "id": 345,
+      "name": "Санжар ака Чирокчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0E404686-60C5-4D2A-97BE-FD1DC82FA57"
+    },
+    {
+      "id": 346,
+      "name": "Мухаммад ака Чирокчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{254442A2-D3AD-4CFD-9086-13C59B9A0D5"
+    },
+    {
+      "id": 347,
+      "name": "Фахриддин ака Оккургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A693396E-F0A0-4D8E-AE77-2125D042AD4"
+    },
+    {
+      "id": 348,
+      "name": "Фахриддин ака Оккургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{872F2BBD-8A37-4FD8-8E99-40667C8958A"
+    },
+    {
+      "id": 349,
+      "name": "Шохруз Оптомчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2B65A8A7-3610-4A13-A932-AFB60A8EC55"
+    },
+    {
+      "id": 350,
+      "name": "Абдукодир ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{84B4C0AA-F1A3-4485-95F6-DAF94236702"
+    },
+    {
+      "id": 351,
+      "name": "Шерзод ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{218BC82D-9F05-4107-8C7C-F6FF125E72A"
+    },
+    {
+      "id": 352,
+      "name": "Зафар ака Жаркугон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E8F00D33-C28F-45B6-AE3A-1F12067A25B"
+    },
+    {
+      "id": 353,
+      "name": "Эркин Ака Жаркургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7D33344E-DF04-449B-B8A2-63EB168F7B2"
+    },
+    {
+      "id": 354,
+      "name": "Асосий восита Принтер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{16E46877-725C-40A1-8FFD-107009D882C"
+    },
+    {
+      "id": 355,
+      "name": "Асосий восита Ноутбук",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EC175A94-C874-4032-986E-ED10A3F38D8"
+    },
+    {
+      "id": 356,
+      "name": "Фирдавс ака Ангрен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{085C3637-AFD7-4EF9-8885-9D432719627"
+    },
+    {
+      "id": 357,
+      "name": "Низомиддин Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{695F753E-910D-414B-9F90-E5589F0CB30"
+    },
+    {
+      "id": 358,
+      "name": "Дилмурод ака ноббе браклар",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F4D0122A-87B8-43A3-B956-47B6B256640"
+    },
+    {
+      "id": 359,
+      "name": "Сирожиддин Р86",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{52BDB815-BF35-4978-A2BB-DA9AD8B37C8"
+    },
+    {
+      "id": 360,
+      "name": "Иззат ТЕХНО",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{14A67BFD-7996-418F-AE39-CF2742C01CB"
+    },
+    {
+      "id": 361,
+      "name": "Рихси ака Чирокчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0F65BE47-215D-4AAD-AF5F-8AC1FBAF49C"
+    },
+    {
+      "id": 362,
+      "name": "Жанибек Б",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{01D3390B-BFC6-48B9-8460-20B53BD4BDD"
+    },
+    {
+      "id": 363,
+      "name": "Жавохир Жиззах фориш",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{54DA1D77-2B19-4809-8456-BD454566314"
+    },
+    {
+      "id": 364,
+      "name": "Бишкек Жанибек",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{68BF093E-83B4-41BA-959B-977480BE404"
+    },
+    {
+      "id": 365,
+      "name": "Даврон ака ТТЗ",
+      "phone": "88 7888871",
+      "address": "",
+      "my_uuid": "{395445BD-0A62-49FA-BEF4-51574BE065B"
+    },
+    {
+      "id": 366,
+      "name": "Садулла ака Сайхунобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5A43E8E3-1C62-42FA-97A1-DF91C11C66C"
+    },
+    {
+      "id": 367,
+      "name": "Мухаммаджон П108",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1A8158B6-D949-4BF0-AE6F-A69BABF2176"
+    },
+    {
+      "id": 368,
+      "name": "Шарофиддин ака Камаши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7409B157-C9E6-442B-8985-1C400A63D5C"
+    },
+    {
+      "id": 369,
+      "name": "Сирож ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3C7D4C7B-E45D-4BD0-BC3D-3B61BC9CA35"
+    },
+    {
+      "id": 370,
+      "name": "Хусан ака Маъруф",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A049BDBD-116E-4D55-9D46-D9DD33AC297"
+    },
+    {
+      "id": 371,
+      "name": "Голиб ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AE0F518D-01E6-44E4-B5F8-C2CF0AD8568"
+    },
+    {
+      "id": 372,
+      "name": "Дониёр ака Эркин",
+      "phone": "99 0028833",
+      "address": "",
+      "my_uuid": "{C309037C-EC23-427B-BE77-F914BAB3F8F"
+    },
+    {
+      "id": 373,
+      "name": "Шерали Р82",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9D3786F5-9C61-45B1-8B24-964DAD18724"
+    },
+    {
+      "id": 374,
+      "name": "Сирожиддин ака Сирдарё",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3B4F1CBF-CFA4-4071-B230-BDFAA41EDEA"
+    },
+    {
+      "id": 375,
+      "name": "Акбар Корасув",
+      "phone": "93 511 61 71",
+      "address": "",
+      "my_uuid": "{4AD78C34-E149-4AEA-9E80-444446053EF"
+    },
+    {
+      "id": 376,
+      "name": "Санжар ака интернет магазин",
+      "phone": "97 771 9719",
+      "address": "",
+      "my_uuid": "{E3483966-6DD6-4370-B824-45BC5730D59"
+    },
+    {
+      "id": 377,
+      "name": "Санжар ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{28EF8CCC-CB15-4AE1-9E94-A9F9D45E6A0"
+    },
+    {
+      "id": 378,
+      "name": "Озод ака Навоий",
+      "phone": "94 488 80 12",
+      "address": "",
+      "my_uuid": "{77EA786C-26DA-402A-9F40-E66447AEFF8"
+    },
+    {
+      "id": 379,
+      "name": "Гиёс ака Бухоро Шопиркон",
+      "phone": "99 7078407",
+      "address": "",
+      "my_uuid": "{5D85F1B7-0430-4539-9D52-4466119F781"
+    },
+    {
+      "id": 380,
+      "name": "Шохрух ака Мангит",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8771A9D8-A15E-4F6A-8F18-4CEC712706A"
+    },
+    {
+      "id": 381,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{74A543BB-2C0F-4F1F-B20E-CC566E69A89"
+    },
+    {
+      "id": 382,
+      "name": "Темур ака Чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{55030D2E-0D39-4027-94C8-20B7351077A"
+    },
+    {
+      "id": 383,
+      "name": "Маъруф браклар",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{69F1AC3D-B5CF-4D95-A483-2674BEF2385"
+    },
+    {
+      "id": 384,
+      "name": "Дилшод ака Чирокчи",
+      "phone": "97 3829595",
+      "address": "",
+      "my_uuid": "{8FC68E64-6CB1-4A92-B5D4-78AC15F796B"
+    },
+    {
+      "id": 385,
+      "name": "Нодир ака Олмалик",
+      "phone": "99 405 75 40",
+      "address": "",
+      "my_uuid": "{9B955E81-7754-489A-B057-C2D37762899"
+    },
+    {
+      "id": 386,
+      "name": "Мурод ака Янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6A972D61-6333-4A39-A96E-7CA51D8275A"
+    },
+    {
+      "id": 387,
+      "name": "Умид ака Янгиер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D37B9577-5EDF-4E2D-A7E5-9742849599B"
+    },
+    {
+      "id": 388,
+      "name": "Ойбек ака Чилонзор",
+      "phone": "90 957 33 32",
+      "address": "",
+      "my_uuid": "{3D0D186E-172F-4FA1-8320-16418869BAF"
+    },
+    {
+      "id": 389,
+      "name": "Исломбек Интернет магазен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{61E6C95D-7A3C-409C-AA48-C854BCB8819"
+    },
+    {
+      "id": 390,
+      "name": "Миргиёс 2",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F32518BA-9277-42AA-B13C-EEB1B460854"
+    },
+    {
+      "id": 391,
+      "name": "Шавкат ака Карши",
+      "phone": "97 229 05 01",
+      "address": "",
+      "my_uuid": "{71F8B8B9-6DB3-4A57-B4AA-E116B6D0549"
+    },
+    {
+      "id": 392,
+      "name": "Содик ака AZBO интернет магазин",
+      "phone": "97 409 38 18",
+      "address": "",
+      "my_uuid": "{87C057FB-AFBD-4194-94EE-41542F0DFA7"
+    },
+    {
+      "id": 393,
+      "name": "Дониёр ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0431A814-63FB-4F4E-ABA4-DD5A44C545A"
+    },
+    {
+      "id": 394,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{80141542-3EC7-4612-96B0-955BF60D42D"
+    },
+    {
+      "id": 395,
+      "name": "Ферузбек хатирчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{45E32C49-D8BB-4E8D-B9F5-5C905B8732B"
+    },
+    {
+      "id": 396,
+      "name": "Хафиз ака Самарканд",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{539B8EF5-2A94-4CBE-B301-90E4DE0617F"
+    },
+    {
+      "id": 397,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8FD3046F-552A-44E9-8FBF-9344A946B79"
+    },
+    {
+      "id": 398,
+      "name": "Садриддин ака Кизирик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7A91541F-9D6D-4F91-A58B-4B9CBA4EE09"
+    },
+    {
+      "id": 399,
+      "name": "Собиржон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2DC138D6-F8C7-43CF-B648-277BC1AC1DE"
+    },
+    {
+      "id": 400,
+      "name": "Даврон ака Коракалпок",
+      "phone": "94 907 45 45",
+      "address": "",
+      "my_uuid": "{E2D9984E-70FE-4F34-8AE1-67D9BF4BF65"
+    },
+    {
+      "id": 401,
+      "name": "Абдулборий Р95",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3F7D419E-1D5E-4A65-AAC4-898CBA483EC"
+    },
+    {
+      "id": 402,
+      "name": "Аббос ака Р100",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{71667E71-B97E-4018-83A8-4148CA73AE7"
+    },
+    {
+      "id": 403,
+      "name": "Жавохир Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{723E41C3-EEED-4837-A8C9-9F5575D8999"
+    },
+    {
+      "id": 404,
+      "name": "Азиз ака Чигатой",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B96D7C3E-DD32-4389-9CE6-DC30D41F9A8"
+    },
+    {
+      "id": 405,
+      "name": "Камол ака Р-63",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B40CE7F5-7CD8-4B66-825B-1ED8D0D21C7"
+    },
+    {
+      "id": 406,
+      "name": "Бобур ака Шахрисабз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{21335930-1B44-4E5E-BC3A-67455190C57"
+    },
+    {
+      "id": 407,
+      "name": "Санжар ака",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7D3F76B2-A108-4C74-B240-D13FB3A2E58"
+    },
+    {
+      "id": 408,
+      "name": "Анвар ака Бухоро",
+      "phone": "91 925 59 55",
+      "address": "",
+      "my_uuid": "{6A328E38-7F18-4AB4-B49A-A86411AD846"
+    },
+    {
+      "id": 409,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{537CB4A0-BFAA-484D-A6E7-639C36DA8FD"
+    },
+    {
+      "id": 410,
+      "name": "Маруфжон ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{891EBADE-2A47-4209-8708-07DC6F6FBDE"
+    },
+    {
+      "id": 411,
+      "name": "ТИНИШТИК ТОВАР",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{51C3593E-CE60-4F31-9A57-5A5320E4C37"
+    },
+    {
+      "id": 412,
+      "name": "Шарифжон Офис",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B60E0C36-7A43-480C-950B-7672A818734"
+    },
+    {
+      "id": 413,
+      "name": "Давлат Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E0A45FD9-E827-416E-AD90-C366083D1B0"
+    },
+    {
+      "id": 414,
+      "name": "Одил ака Шурчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D0F9D101-2C2B-4771-82E3-233CB5A4D9C"
+    },
+    {
+      "id": 415,
+      "name": "Журабек шурчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{76E9BDCB-A4A8-466D-ABCA-3A75B54D654"
+    },
+    {
+      "id": 416,
+      "name": "Баходир ака Пскент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{43D66F88-9915-43BC-B72F-E73C6A7355D"
+    },
+    {
+      "id": 417,
+      "name": "Абдурашид ака Кадишва",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{859095D5-8DDD-4981-9F01-3DF43CED418"
+    },
+    {
+      "id": 418,
+      "name": "Алишер ака Бойсун",
+      "phone": "99 421 22 23",
+      "address": "",
+      "my_uuid": "{9883D014-9AF0-4F04-B15A-25BB3B394C4"
+    },
+    {
+      "id": 419,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6E013A24-7467-4B94-B80C-DEA2E1FF92A"
+    },
+    {
+      "id": 420,
+      "name": "Гиёс ака ДУст",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B0594ACF-9CF4-48D3-8B47-23D15C00C01"
+    },
+    {
+      "id": 421,
+      "name": "Алишер ака Р59",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D9F7BB9D-303D-477D-AA09-C16A5AF2B9B"
+    },
+    {
+      "id": 422,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{00ED1EDB-86A2-44D2-B90E-0A8D8252220"
+    },
+    {
+      "id": 423,
+      "name": "Рустам ака Янги бозор",
+      "phone": "97 747 72 47",
+      "address": "",
+      "my_uuid": "{957C5C55-1F6D-435E-8E25-BC2E62FCBDF"
+    },
+    {
+      "id": 424,
+      "name": "Хасан ака Галлорол",
+      "phone": "93 825 88 86",
+      "address": "",
+      "my_uuid": "{B342A5F5-93DC-48EB-9B7B-80FA12C16AD"
+    },
+    {
+      "id": 425,
+      "name": "Фаррух Р72",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8D15CC1A-1C69-49BA-8EE6-7138222649F"
+    },
+    {
+      "id": 426,
+      "name": "Хожиакбар ТТЗ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C2357FAC-AA48-4AE0-962E-FA2EDE1A384"
+    },
+    {
+      "id": 427,
+      "name": "Мухаммад Расул Р70",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0AD35B0F-127D-43EB-8EEE-5ECF76869A2"
+    },
+    {
+      "id": 428,
+      "name": "Бунёд Бойсун",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A0315F14-F66B-4D8B-9377-54465123F80"
+    },
+    {
+      "id": 429,
+      "name": "Ориф ака Гулистон",
+      "phone": "97 3310666",
+      "address": "",
+      "my_uuid": "{F7E47862-F669-4EE7-8E2D-2073AEF71BB"
+    },
+    {
+      "id": 430,
+      "name": "Юсуф ака Р-55",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AB14E819-53ED-4F58-BEAA-4D6111A9B64"
+    },
+    {
+      "id": 431,
+      "name": "Аваз малика",
+      "phone": "99 6195959",
+      "address": "",
+      "my_uuid": "{05A0E23F-8E77-408F-A071-DAC5B677FD4"
+    },
+    {
+      "id": 432,
+      "name": "SAIDRASUL AKA T1",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{971F95A1-DCDD-4A7F-AC89-099BC187B44"
+    },
+    {
+      "id": 433,
+      "name": "Ислом ака Навои",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{86ABEDC1-C5E2-4B46-81C5-2F962711A19"
+    },
+    {
+      "id": 434,
+      "name": "Абдулазиз ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{95FB66FD-3AA1-4F8D-988D-263E4099B74"
+    },
+    {
+      "id": 435,
+      "name": "Фаррух ака Чорсу",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{34DCAE9B-7BD8-4F0A-BD90-7649D6F9004"
+    },
+    {
+      "id": 436,
+      "name": "Нодир Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{71577449-031B-458F-B110-98D520D9F81"
+    },
+    {
+      "id": 437,
+      "name": "Умид ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7E969965-8BDE-4954-9A5B-54B979EC5E1"
+    },
+    {
+      "id": 438,
+      "name": "Сарвар ака Зарифдор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{36D51CAB-EA63-4C16-9207-3D8C8235B76"
+    },
+    {
+      "id": 439,
+      "name": "Косим ака Р37",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D5E61336-252D-422F-A023-C334B5B77AA"
+    },
+    {
+      "id": 440,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F6CB6E36-144B-4227-84CD-8D9DCA940C7"
+    },
+    {
+      "id": 441,
+      "name": "Аслиддин ака Зарафшон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{84D90A3F-2B97-49D3-A86D-93AE3072D52"
+    },
+    {
+      "id": 442,
+      "name": "Алишер ака Сирдарйо",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6BD41798-C465-44EE-9E82-91CB479C826"
+    },
+    {
+      "id": 443,
+      "name": "Жасур Гулистон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2B0A3400-ECB0-491B-B0A3-529365DF7B6"
+    },
+    {
+      "id": 444,
+      "name": "Исмоил ака САМСУНГ ОРГ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FE55238E-024C-4D83-A7FE-551C9602722"
+    },
+    {
+      "id": 445,
+      "name": "Абдуллох Р130",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9E87C89F-45E0-4196-8224-E92F6CC4788"
+    },
+    {
+      "id": 446,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{608B00CF-BF82-445B-A446-14719E5031E"
+    },
+    {
+      "id": 447,
+      "name": "Кукон Клиент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8E0820D5-2218-46CD-9213-50E499426E9"
+    },
+    {
+      "id": 448,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A937F91D-209B-4901-93E4-C5C0CA4D1DA"
+    },
+    {
+      "id": 449,
+      "name": "Хамидулла ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B6FAAB30-AF52-456A-8325-0128F3CD73E"
+    },
+    {
+      "id": 450,
+      "name": "Фарход ака Галлаорол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{886A8CFB-B4C8-47D0-988F-B72058F0162"
+    },
+    {
+      "id": 451,
+      "name": "Мурод ака Самарканд",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{25D06B6D-A7EC-4D02-89FA-1BE4001B42E"
+    },
+    {
+      "id": 452,
+      "name": "Абдукаххор хожи ака Челак",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4402467C-4F15-4AAE-BC6B-1B6A1CA4F2D"
+    },
+    {
+      "id": 453,
+      "name": "Достон Шахриабз",
+      "phone": "88 9090011",
+      "address": "",
+      "my_uuid": "{EFA5A9D5-67B3-4728-BD89-2D863D49E16"
+    },
+    {
+      "id": 454,
+      "name": "Уткир ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0D9C90BD-5FC2-42BE-A65A-03E7CE123AE"
+    },
+    {
+      "id": 455,
+      "name": "Мадина опа Сергели",
+      "phone": "99 037 6141",
+      "address": "",
+      "my_uuid": "{259AD9EA-51B8-4434-9834-C3534B1BD46"
+    },
+    {
+      "id": 456,
+      "name": "Аренда Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{90ED528E-867D-4881-91E6-670C6C04880"
+    },
+    {
+      "id": 457,
+      "name": "Азиз ака Наманган Оптом",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2F95F242-8226-4342-BCBC-F785B3C9851"
+    },
+    {
+      "id": 458,
+      "name": "Уткир ака Карши оптом",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0F2490E6-56BB-4DBF-B719-1EB85C0AA0B"
+    },
+    {
+      "id": 459,
+      "name": "Шахбоз ака Кичаода",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5D9C271A-966F-4A57-A092-920E3377CF9"
+    },
+    {
+      "id": 460,
+      "name": "Олим ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{861A719B-BC98-423B-B22D-8365B7CF397"
+    },
+    {
+      "id": 461,
+      "name": "Шахбоз ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{000C85CB-3FBB-4F14-A75A-3061FEAFDC1"
+    },
+    {
+      "id": 462,
+      "name": "Дилшод ака Хоразм оптом",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9F83689E-4C85-42CB-9186-5375B04BA28"
+    },
+    {
+      "id": 463,
+      "name": "Отабек ака Китоб",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A48DC3E9-4716-4362-BF61-34C5FEDC3A0"
+    },
+    {
+      "id": 464,
+      "name": "Тулкин ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B08CB5EB-9420-4BB3-9A3E-8E54832F66F"
+    },
+    {
+      "id": 465,
+      "name": "Жамшид ака Самарканд",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2FAD4293-6F56-4208-9912-1C045BA098B"
+    },
+    {
+      "id": 466,
+      "name": "Азамат ака Зафаробод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0BBCCB5D-BCAF-4127-982F-E627E456B19"
+    },
+    {
+      "id": 467,
+      "name": " Азимжон Strike",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{39FCF7F1-048C-4F63-95F6-27A034BC922"
+    },
+    {
+      "id": 468,
+      "name": "Зохид ака Чорсу",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2C807A51-8647-4A42-9F25-3425DEFE5AD"
+    },
+    {
+      "id": 469,
+      "name": "Гулом ака Кечаода",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F2F1990D-36AC-4490-A612-38091727903"
+    },
+    {
+      "id": 470,
+      "name": "Одил ака E-139",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CFE5DA80-F5BF-4B79-885C-90681F67A59"
+    },
+    {
+      "id": 471,
+      "name": "Бахтиёр ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{46340900-C46D-43E4-B45D-1329E96B52A"
+    },
+    {
+      "id": 472,
+      "name": "Даврон ака Иштихон",
+      "phone": "88 8988388",
+      "address": "",
+      "my_uuid": "{AB0E6006-A2F6-4DE2-B99E-D65B76013EA"
+    },
+    {
+      "id": 473,
+      "name": "Нафиса опа Янгиобод",
+      "phone": "94 6672717",
+      "address": "",
+      "my_uuid": "{BAB61860-5327-4EA5-8ABB-D60E22A9DBE"
+    },
+    {
+      "id": 474,
+      "name": "Миржалол Р-85",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8E77009C-4FAB-4551-B3A8-D99E65A4CFB"
+    },
+    {
+      "id": 475,
+      "name": "Нуриддин ака Р89",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{409BEE92-EFD3-4E3A-9347-2663530BF47"
+    },
+    {
+      "id": 476,
+      "name": "Шохида опа Охангорон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3377712D-B7B5-49E5-9768-779FC8B0402"
+    },
+    {
+      "id": 477,
+      "name": "Музаффар ака Туннел",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FFEBA185-D776-43F1-9051-55EE97BB0C1"
+    },
+    {
+      "id": 478,
+      "name": "Мухиддин ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4019B2E5-29A8-4073-89C6-68CAFB45D6F"
+    },
+    {
+      "id": 479,
+      "name": "Элдор Р91",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A2FAA77E-C166-49ED-8A8C-AD533C6DA16"
+    },
+    {
+      "id": 480,
+      "name": "Учкун ака ХАМКОР",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B863EF14-AB3B-4C8A-A34A-9E3E9DB73E0"
+    },
+    {
+      "id": 481,
+      "name": "Дилмурод ака Шахрисабз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0A934722-744B-468D-A5D7-3C0A093ADF9"
+    },
+    {
+      "id": 482,
+      "name": "Сардор Р85",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{92D11E67-4AA5-4C28-9CA5-F090D25E4A0"
+    },
+    {
+      "id": 483,
+      "name": "Ахмад ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{38FE88E2-CF46-4E06-AD53-774E795FC34"
+    },
+    {
+      "id": 484,
+      "name": "Комил ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{ED6E023C-48CB-400B-9B78-D771E6A15B6"
+    },
+    {
+      "id": 485,
+      "name": "Жамшид ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{312F33D3-6772-4F48-A94E-3CA2F51F5B1"
+    },
+    {
+      "id": 486,
+      "name": "Дониёр ака Хива",
+      "phone": "91 422 21 91",
+      "address": "",
+      "my_uuid": "{CC8EDFE7-BA1C-48D8-891C-B78F7A53035"
+    },
+    {
+      "id": 487,
+      "name": "Косимбой ака Медгородок",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A3B4E6AB-2090-41DC-A18B-68E62E8C1A3"
+    },
+    {
+      "id": 488,
+      "name": "Бегзод ака Эркин",
+      "phone": "99 888 5445",
+      "address": "",
+      "my_uuid": "{5E230B50-7931-47B7-9CE5-1A4383B72A5"
+    },
+    {
+      "id": 489,
+      "name": "Абдулла ака Урикзор",
+      "phone": "97 4000358",
+      "address": "",
+      "my_uuid": "{9FF59B75-B026-4C90-BCE7-48591977894"
+    },
+    {
+      "id": 490,
+      "name": "Шахбоз ака H 72",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0A1E02F8-F355-4ABB-BE7E-13A984FF2A5"
+    },
+    {
+      "id": 491,
+      "name": "Рустам ака Сирдарё",
+      "phone": "90 404 1616",
+      "address": "",
+      "my_uuid": "{6AED5746-86C1-4E66-821C-F9C27FF3FD4"
+    },
+    {
+      "id": 492,
+      "name": "Мухаммадхужа малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D6361EDE-D9D4-4260-85E9-93CF97EA679"
+    },
+    {
+      "id": 493,
+      "name": "Фарух Р92",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{ACF73DE6-F438-4FAB-9CF7-5914CC457E2"
+    },
+    {
+      "id": 494,
+      "name": "Умид ака Нурота",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6DB9021D-D3EB-4C3A-BFDF-E77FD402F96"
+    },
+    {
+      "id": 495,
+      "name": "Хасан ака Муборак",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2244EB99-5FF6-41D1-B36D-7610089B718"
+    },
+    {
+      "id": 496,
+      "name": "Шукурулло Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2B87A2FB-79D3-479A-A287-4E0C09503CB"
+    },
+    {
+      "id": 497,
+      "name": "Алишер ака Малика А11",
+      "phone": "97 707 99 73",
+      "address": "",
+      "my_uuid": "{130F5B43-FF5C-4ECC-9763-814CFA125DC"
+    },
+    {
+      "id": 498,
+      "name": "Абдулкаюм Р97",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7258E4BC-73DC-48EF-A98E-B90C9CDB66B"
+    },
+    {
+      "id": 499,
+      "name": "Феруза опа Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9856FE48-21BC-430D-B10A-505554F73A4"
+    },
+    {
+      "id": 500,
+      "name": "Аббос хамкор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CF137C91-6EE9-4F31-B5DD-DB362BA1616"
+    },
+    {
+      "id": 501,
+      "name": "Нодир ака МирзоУлугбек",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A5D2ED37-4E2A-4D69-99ED-475A818DAE3"
+    },
+    {
+      "id": 502,
+      "name": "Нурилло ака малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F9096496-8B4B-4447-B10E-E7AA3BE0B72"
+    },
+    {
+      "id": 503,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2A828608-3BD7-4E36-AA85-A2C02FDCBED"
+    },
+    {
+      "id": 504,
+      "name": "Шухрат ака Каттакургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5D7772FA-883F-49C0-B66B-0306856DBF1"
+    },
+    {
+      "id": 505,
+      "name": "Журабек ака Абу Сахий Авто вагзал",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E5DCE631-0426-4855-8105-4D1F26D49F4"
+    },
+    {
+      "id": 506,
+      "name": "Анвар ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E7BAED04-7455-42B5-B5AD-2F87DDE2131"
+    },
+    {
+      "id": 507,
+      "name": "Сардор ака Ангрен",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{48712068-94EA-4D5C-B1D1-5B83EE8D748"
+    },
+    {
+      "id": 508,
+      "name": "Нодир ака Чиноз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{48781ECC-11FB-46A4-A8A9-0F23BF44154"
+    },
+    {
+      "id": 509,
+      "name": "Аброр ака R103",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7961C95D-9CBE-4319-B9EB-B758A9FEC80"
+    },
+    {
+      "id": 510,
+      "name": "Сирож ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A493645F-6180-40ED-BD77-750A996D78B"
+    },
+    {
+      "id": 511,
+      "name": "Ёкубжон куйлик 6 М Екубжон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C4FB60A2-32BC-499D-A0B3-40AAAB63ED9"
+    },
+    {
+      "id": 512,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6EBF38D9-111F-412E-A3BF-451E546E1FB"
+    },
+    {
+      "id": 513,
+      "name": "Жамолиддин ака Янийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{116E6A87-4D13-4C15-979D-3D3AF5802DD"
+    },
+    {
+      "id": 514,
+      "name": "Отабек ака Гулистон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{28A35EF2-63D9-4AEE-9B13-797AF87CB41"
+    },
+    {
+      "id": 515,
+      "name": "Нурилла ака Хонабод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{136EFBED-DE25-431B-8CCA-D58D4DD0802"
+    },
+    {
+      "id": 516,
+      "name": "Жасур ака Кумкургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{751A1D74-3090-4BF0-B32C-9C942AC4F1F"
+    },
+    {
+      "id": 517,
+      "name": "Зокир ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D2203EEA-0C85-4F61-A26B-85E3BC685EA"
+    },
+    {
+      "id": 518,
+      "name": "Темур ака Самарканд",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{66AA33D4-3C91-4475-A4C2-C33F74EDEE6"
+    },
+    {
+      "id": 519,
+      "name": "ДАДАХОН ХАРАЖАТ",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7CA22430-FC2E-4B68-9BE4-3D23DB2642C"
+    },
+    {
+      "id": 520,
+      "name": "Элйор ака Жиззах Бахмал",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E9C03CF1-96B9-4B39-A622-6DFB523D30A"
+    },
+    {
+      "id": 521,
+      "name": "Жавохир пластик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FA468C9F-2B34-4490-AACB-8CA66E19693"
+    },
+    {
+      "id": 522,
+      "name": "Бобур Сергели",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CD0728B8-8C44-473E-9EF3-319CA867032"
+    },
+    {
+      "id": 523,
+      "name": "Фарход ака Бока",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E459E375-836B-42FC-9DB0-FE3CD6EBFEA"
+    },
+    {
+      "id": 524,
+      "name": "Шерзод ака Юнусобод универсам",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B499B027-241E-42BD-8CC7-07D2BA1BA61"
+    },
+    {
+      "id": 525,
+      "name": "Сардор Р55",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FC805EE2-3175-465F-B2C2-36C7E09C51C"
+    },
+    {
+      "id": 526,
+      "name": "Аббос Помошник",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2843E96B-8B29-4B82-A9BE-A6FF96566B8"
+    },
+    {
+      "id": 527,
+      "name": "Мирафзал Селхоз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D972CDBB-0F1A-47D1-B6E2-BEE57312C60"
+    },
+    {
+      "id": 528,
+      "name": "Саид ака МаксимГоркий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{05049A9F-7C24-4EBE-AB67-EC14A339B23"
+    },
+    {
+      "id": 529,
+      "name": "Руслан ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2FA3EA54-C221-42EE-9043-DD86DD1A6A8"
+    },
+    {
+      "id": 530,
+      "name": "Достон ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{49CBAE32-3690-49B9-80E7-F7A8043CAF5"
+    },
+    {
+      "id": 531,
+      "name": "Умар Ургут",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E9EE5238-BA00-47BF-BA12-4D88077259C"
+    },
+    {
+      "id": 532,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{807E32BE-396D-400F-A42C-E1A0A038743"
+    },
+    {
+      "id": 533,
+      "name": "Техрон ака Самарканд",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{173FC3C5-1A75-41EA-A249-AB7F1720C2D"
+    },
+    {
+      "id": 534,
+      "name": "Руслан ака Бока",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F04750CE-DF9D-4E7D-BC05-B76DCBB59AA"
+    },
+    {
+      "id": 535,
+      "name": "Элмурод ака Чирчик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{97AE82E0-72D6-445F-AF72-5D65343DEDD"
+    },
+    {
+      "id": 536,
+      "name": "Суннат ака Пахтачи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0B2C387B-E19F-4959-9FAA-804F0E147C0"
+    },
+    {
+      "id": 537,
+      "name": "Донйор ака Уч Кахрамон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{75E104D2-F59B-47F9-9BA8-6BE52C56DAA"
+    },
+    {
+      "id": 538,
+      "name": "Зафар ака Зарифдор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{146C562A-F9D3-4FF9-B589-BF73C76AB4C"
+    },
+    {
+      "id": 539,
+      "name": "Салохиддин ака Зарифдор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4D447249-F07F-45C8-8C11-F3A436221D5"
+    },
+    {
+      "id": 540,
+      "name": "Алишер ака Мирбозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{67236E03-6E9C-48F5-B825-8196FA40EAB"
+    },
+    {
+      "id": 541,
+      "name": "Элёр ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E847DE5C-3B55-4025-A3A7-6C367CC842D"
+    },
+    {
+      "id": 542,
+      "name": "Нуриддин ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2B255FED-F8E9-42AC-A1B5-5A63102C0AB"
+    },
+    {
+      "id": 543,
+      "name": "Нодир ака Навоий",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4166208C-0549-4178-86C2-0094703D722"
+    },
+    {
+      "id": 544,
+      "name": "Нодир Текстел Жура",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BEAFCA99-BD42-4F45-A94D-F27F8CA6F1B"
+    },
+    {
+      "id": 545,
+      "name": "Иброхим Чилонзор метро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A788E5D7-6711-46CB-8787-7AAFD500BC1"
+    },
+    {
+      "id": 546,
+      "name": "Иброхим Селхоз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F34B3348-BBDD-4A79-A3E2-4C12A348807"
+    },
+    {
+      "id": 547,
+      "name": "Бегзод Маматов",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C89EB3A2-1883-4752-A89C-99929AF8BCC"
+    },
+    {
+      "id": 548,
+      "name": "Иброхим ака малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{608ECD57-535D-450E-988F-89CD4BBDB4C"
+    },
+    {
+      "id": 549,
+      "name": "Бегали ака куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F24A04FF-C870-4313-9737-FA2B4E29B65"
+    },
+    {
+      "id": 550,
+      "name": "Акмал ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6C989F46-0243-4C80-A7CC-965B98B7D44"
+    },
+    {
+      "id": 551,
+      "name": "Донёр ака Гулистон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D974B019-2ACA-41AB-8BF3-3D1D9955E7F"
+    },
+    {
+      "id": 552,
+      "name": "Йигитали ЖУра",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{82D0D08E-1EB6-404F-B805-B719257043C"
+    },
+    {
+      "id": 553,
+      "name": "Жавохир камомад Астатка 08,06,2021",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1A515716-D345-4F39-9E9D-E2AF033CA32"
+    },
+    {
+      "id": 554,
+      "name": "Сарвар ака Янгиюл",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AF21681C-B51B-484E-940B-FB7BF12051E"
+    },
+    {
+      "id": 555,
+      "name": "Ойбек ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2FCF1CD9-02B4-4B43-9950-5092DD27085"
+    },
+    {
+      "id": 556,
+      "name": "Шохрух Сирдарё",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A0704C77-9F8D-481D-8A3D-2E056712FE9"
+    },
+    {
+      "id": 557,
+      "name": "Мусулмон ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{555C01AA-FD34-47BF-B4B6-DB46E2A57D9"
+    },
+    {
+      "id": 558,
+      "name": "Нодир ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3A5B7220-ABCD-4D5D-9599-529B425C698"
+    },
+    {
+      "id": 559,
+      "name": "Хайрулло Р91",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9C114190-9FF3-45B2-AE8F-E3EC3FF7C82"
+    },
+    {
+      "id": 560,
+      "name": "Калкон ака Чирокчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E0AA4928-4A31-4D83-B9C0-18492967F10"
+    },
+    {
+      "id": 561,
+      "name": "Азиз ака Шахрисабз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{736270EA-E941-47DD-8D6D-C4F76D16563"
+    },
+    {
+      "id": 562,
+      "name": "Илхом ака Фарход бозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{00F1F14F-5FA0-45B7-B1ED-3F0CFE11524"
+    },
+    {
+      "id": 563,
+      "name": "Бахриддин ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B069F5A6-3C2F-4339-AA1B-808EC7697BF"
+    },
+    {
+      "id": 564,
+      "name": "Алишер ака Чиноз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{90C649E5-DD9F-4976-8EA2-50C09602CF2"
+    },
+    {
+      "id": 565,
+      "name": "Ахрор ака Дукон 88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8B62733C-6968-45E2-BC57-C07A34A09AF"
+    },
+    {
+      "id": 566,
+      "name": "Элдор Бекбарака",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9971F3F4-8AB2-4C3B-997A-E32F4800A44"
+    },
+    {
+      "id": 567,
+      "name": "Мухаммадали Жаркургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AC1207F0-5039-45CF-87DE-232F8C020DA"
+    },
+    {
+      "id": 568,
+      "name": "Равшан Коракамиш",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{59A6D06B-D0E5-4C63-BDBD-8EF7FFF2818"
+    },
+    {
+      "id": 569,
+      "name": "Инвер ака Сирдарё",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5A922B4E-8FCF-4FB2-A7C7-693FC4FB924"
+    },
+    {
+      "id": 570,
+      "name": "Гузал опа Хоразм",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F2734EA8-85EE-4DF8-B8C7-5213EBC9BD9"
+    },
+    {
+      "id": 571,
+      "name": "Али ака Кишлок",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1B6FEA83-0483-4BB4-8EB8-0E7BC33C4CD"
+    },
+    {
+      "id": 572,
+      "name": "Ойбек ака Янгийул 0504",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F8CC9A63-801C-4A53-A4E8-95C30EE7C2F"
+    },
+    {
+      "id": 573,
+      "name": "Мухриддин ака Бекбарака",
+      "phone": "94 9326664",
+      "address": "",
+      "my_uuid": "{001B8063-607C-4C90-B5D1-2C0C71B1EB3"
+    },
+    {
+      "id": 574,
+      "name": "Хуршид AKA  Е124",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{101812CE-0FEA-4B8D-9D97-8F244A56587"
+    },
+    {
+      "id": 575,
+      "name": "Валижон ака Кукон оптом",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1EA23695-E641-460C-8E56-1FF2F871B3D"
+    },
+    {
+      "id": 576,
+      "name": "Аброр Р103",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{BEEABD2B-8F08-4938-99B7-44BAEF7D5E0"
+    },
+    {
+      "id": 577,
+      "name": "Суннат ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{490C2E36-785A-4184-ABCA-05114ECA630"
+    },
+    {
+      "id": 578,
+      "name": "Эгир ака Жиззах",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FD53CD1B-5CB2-4903-897F-54F3670BADA"
+    },
+    {
+      "id": 579,
+      "name": "Нурмухаммад ака Андижон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EC5F96F7-39AC-4EE1-847D-9C872DBA97B"
+    },
+    {
+      "id": 580,
+      "name": "Сардор Зарфдор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3FB3DB36-0772-4E47-8743-4FE229FAA76"
+    },
+    {
+      "id": 581,
+      "name": "Бегзод Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7595A9F7-6921-48E5-BCB8-89628813349"
+    },
+    {
+      "id": 582,
+      "name": "Рашид ака Нукус",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6A112717-EF65-4C8E-BD53-53710C9FFB5"
+    },
+    {
+      "id": 583,
+      "name": "R-57 Дукон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7C8A7D84-820A-4340-B2E3-05C3029F1C6"
+    },
+    {
+      "id": 584,
+      "name": "Дилмурод ака Нурота",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EA1746BE-8FFC-417A-8824-E5FE1F98AA7"
+    },
+    {
+      "id": 585,
+      "name": "Нуриддин ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AE6BCB37-C88F-4DAB-A5E7-35ACC6E5D6C"
+    },
+    {
+      "id": 586,
+      "name": "Яшнар Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DAF65C0E-8C26-4F73-96A8-877477ABBB3"
+    },
+    {
+      "id": 587,
+      "name": "Ислом Янгиюл",
+      "phone": "99 225 38 88",
+      "address": "",
+      "my_uuid": "{5364C979-5132-4435-A6B4-30C07C8159B"
+    },
+    {
+      "id": 588,
+      "name": "Илхом ака Жаркургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{76D35E6C-7995-47F9-BB00-9006F07EFD5"
+    },
+    {
+      "id": 589,
+      "name": "Содикжон ака Наманган",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{6B2A2580-2D88-4B60-A156-ACF8B584D56"
+    },
+    {
+      "id": 590,
+      "name": "Шахзод Жиззах станция",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{4743C4E8-B233-41A3-9EE2-511F30F2E75"
+    },
+    {
+      "id": 591,
+      "name": "Рустам ака Новей",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1F4219F5-BB94-4CE5-8597-59ACE9BDB35"
+    },
+    {
+      "id": 592,
+      "name": "Саййод Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{79E6BAA1-A9C3-4617-B28F-2D6212C3CCD"
+    },
+    {
+      "id": 593,
+      "name": "Отажон ака Гулистон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3BFC3848-8267-4F04-8E72-D2F93B40408"
+    },
+    {
+      "id": 594,
+      "name": "Максуд ака Олот",
+      "phone": "99 383 8323",
+      "address": "",
+      "my_uuid": "{B3C0DF58-2AD7-4816-A203-8350A3CA754"
+    },
+    {
+      "id": 595,
+      "name": "Одил ака Денов",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0FF45AD7-D23E-4B31-8B2B-1063F68B036"
+    },
+    {
+      "id": 596,
+      "name": "Кодир ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{49CBFF09-9907-4753-9519-01E66CD1F4E"
+    },
+    {
+      "id": 597,
+      "name": "Исроил Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9057D42A-8122-4CDE-9067-7E8767FB616"
+    },
+    {
+      "id": 598,
+      "name": "Миршод ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{50C2FEB0-8268-4A31-8675-1F2A52768EB"
+    },
+    {
+      "id": 599,
+      "name": "Жасур Чилонзор метро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{78DDD1B3-4398-43CF-B5B3-72E54DE8898"
+    },
+    {
+      "id": 600,
+      "name": "Асрор ака Зебо",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{981F7084-EE8D-4FBA-8597-032C5B1D87E"
+    },
+    {
+      "id": 601,
+      "name": "Шахризод Е115",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C1C2B26E-FBD7-415C-8771-B1D66368ED3"
+    },
+    {
+      "id": 602,
+      "name": "Алишер ака Китоб",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{98E60D46-DC5E-47F1-8993-EB34E966546"
+    },
+    {
+      "id": 603,
+      "name": "Шохрух Кадышева олмос",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{51BAAAF4-6CC3-4706-B01B-B0DD715A4C8"
+    },
+    {
+      "id": 604,
+      "name": "Хусниёр ака Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CE9FC0B7-6EA5-4383-9010-5EA5137DD90"
+    },
+    {
+      "id": 605,
+      "name": "Фарух Жиян",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{DDF1704E-07C3-4FA8-8194-3A535FEC9B2"
+    },
+    {
+      "id": 606,
+      "name": "Мирфаёз Куйлик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{42DDCA44-95B7-41BD-8A45-334170B5B28"
+    },
+    {
+      "id": 607,
+      "name": "СУХРOБ Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{7E5EDC1A-225B-4362-9558-6A20B82DABE"
+    },
+    {
+      "id": 608,
+      "name": "Бегзод ака Мирбозор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F7EA6586-2865-483B-93E2-CDAA02E9AF2"
+    },
+    {
+      "id": 609,
+      "name": "Фарход ака ЙУЛ БИШК",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{2BC5BF69-D57F-4C83-BF70-0F47B9A2E6D"
+    },
+    {
+      "id": 610,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{012520BB-FA35-438E-A547-FDE4766C331"
+    },
+    {
+      "id": 611,
+      "name": "Шерзод ака",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E9C87DBB-333C-4816-A489-C5881F64990"
+    },
+    {
+      "id": 612,
+      "name": "Аброр ака Янгиюл",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CC0FA8DF-30C4-45E3-B011-0032FAF08B6"
+    },
+    {
+      "id": 613,
+      "name": "Зиёмиддин ака Чилонзор Метро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{82232167-A55A-4B85-AC37-68F62D3C963"
+    },
+    {
+      "id": 614,
+      "name": "Отахужа ака Бока",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{34A9A84A-97BE-420D-888F-E1BC1E6E335"
+    },
+    {
+      "id": 615,
+      "name": "Абдукаххор ака Урикзор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CAE8AC52-F6DF-4850-AEAB-839C133ABFB"
+    },
+    {
+      "id": 616,
+      "name": "Мухаммадсодикжон ака Кукон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F3FD1EBE-3384-48C8-B84B-443CC808029"
+    },
+    {
+      "id": 617,
+      "name": "Самандар Янгиюл",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1373A0EF-F477-46E5-919E-DBD381DD03E"
+    },
+    {
+      "id": 618,
+      "name": "Cардор ака Чилонзор Метро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E55325A4-EDFF-41C0-894B-8C197A5D723"
+    },
+    {
+      "id": 619,
+      "name": "Умирзок ака G150",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C48FCAD5-5355-4C31-A254-6E3531CA94D"
+    },
+    {
+      "id": 620,
+      "name": "Сардор Урикзор Диллер",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{71CA0815-AD83-4DFC-955A-8ED7F02D051"
+    },
+    {
+      "id": 621,
+      "name": "Ойбек ака Бытовойчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{3B52544A-F669-4A63-A67A-22A1B1FC407"
+    },
+    {
+      "id": 622,
+      "name": "Хуршид ака Гиждувон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{0C338664-934F-4E48-976E-6DFD8AC9FE1"
+    },
+    {
+      "id": 623,
+      "name": "Дониер Паркент",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E6F2435F-ED67-4488-8CA2-2D00C6C9AA3"
+    },
+    {
+      "id": 624,
+      "name": "Махмуд ака Малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D58B471D-261C-4D37-80F6-7FE2A163400"
+    },
+    {
+      "id": 625,
+      "name": "Абдулмажид Торговый центр",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{72CB63D4-15F1-4C9E-A58F-F61B1412903"
+    },
+    {
+      "id": 626,
+      "name": "Кудрат Катортол",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9B0A9A39-5239-4E33-9ABC-690E3C8E980"
+    },
+    {
+      "id": 627,
+      "name": "Миржалол BQ E127",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C9B373C8-7DD2-4501-B2C7-9D51462601E"
+    },
+    {
+      "id": 628,
+      "name": "Ойбек Денов",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1781B1CC-D330-4309-98F0-816765A2904"
+    },
+    {
+      "id": 629,
+      "name": "Мухаммадмусо Малика оптом",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F7CA1AF6-56AC-43E0-8DEB-12A41CC50A0"
+    },
+    {
+      "id": 631,
+      "name": "Санжар ака Хоразм",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{184D5793-88CD-411B-9C33-12341EE3735"
+    },
+    {
+      "id": 632,
+      "name": "Кахрамон Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1E701FAC-C36C-409D-85D8-00E86FC826B"
+    },
+    {
+      "id": 633,
+      "name": "Шерзод Ака Самарканд Сиёб",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B09BAA4D-D92E-4F36-B3D4-B4ECF02603C"
+    },
+    {
+      "id": 634,
+      "name": "Абдулла ака Каттакургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{160522B1-3EA4-4779-A685-C22C1EB5443"
+    },
+    {
+      "id": 635,
+      "name": "Ойбек U-29",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{E824D38D-FDEB-4146-A495-4B042FDD5E4"
+    },
+    {
+      "id": 636,
+      "name": "Даврон ака Андижон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{53ED7BF1-FDA3-4EA2-A263-5041DEF35B5"
+    },
+    {
+      "id": 637,
+      "name": "Узтемир ака Хожи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F637DB7A-E294-47E2-9780-70BBC4D2E3D"
+    },
+    {
+      "id": 638,
+      "name": "Козим малика",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{844A87B2-4040-43AD-A48A-D74BEDADCE2"
+    },
+    {
+      "id": 639,
+      "name": "Маъмур ака Сирдарё околтин",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{69289327-31E9-4980-B579-FDCB1645377"
+    },
+    {
+      "id": 640,
+      "name": "Гайрат ака Муборак",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5C7D106F-4798-4289-B98A-4365BC6E6FC"
+    },
+    {
+      "id": 641,
+      "name": "Шомурод ака Иштихон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9044D08F-5BB2-420F-A0D1-E9B8088CC21"
+    },
+    {
+      "id": 642,
+      "name": "Бобур ака Пайарик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{03A8B46F-EAC9-4A79-BD4F-D08BE18FCA4"
+    },
+    {
+      "id": 643,
+      "name": "Махмуд ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{FBAF85A9-CD1A-4A7E-ADBC-81222C4961A"
+    },
+    {
+      "id": 644,
+      "name": "Бобур ака Карши",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5F4948B7-E71B-4116-BDFD-F53B1A08179"
+    },
+    {
+      "id": 645,
+      "name": "Анас ака Фаргона",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{102DD935-3BC0-4ADA-BA1F-4933476CDA8"
+    },
+    {
+      "id": 646,
+      "name": "Лочин ака Жума",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{04CD561A-D056-4615-99BB-12FAF2C47E0"
+    },
+    {
+      "id": 647,
+      "name": "",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D8CD1CC6-57A9-4F7D-8966-1198FCD020D"
+    },
+    {
+      "id": 648,
+      "name": "Даниел ака Олмалик",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{B779471E-077D-41F4-99F6-714A6356BAC"
+    },
+    {
+      "id": 649,
+      "name": "Абдулла ака Каттакургон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{A781221D-1933-4F33-96F9-B9173C1B051"
+    },
+    {
+      "id": 650,
+      "name": "Абдумажид ака чилонзор торговл",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{AF48E48C-02AE-444B-85F7-F4E7FC1CCCF"
+    },
+    {
+      "id": 651,
+      "name": "",
+      "phone": "",
+      "address": "Ёкубжон ака Наманган",
+      "my_uuid": "{E79FFE0D-0B69-4235-8004-5B8BAC092DF"
+    },
+    {
+      "id": 652,
+      "name": "Ёкубжон ака наманган",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D547C17E-E590-45F6-8D9E-C6DF11A2B50"
+    },
+    {
+      "id": 653,
+      "name": "Рустам ака Дукон аренда",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{8B1DE223-F936-4143-B494-6F94AB438C4"
+    },
+    {
+      "id": 654,
+      "name": "Навруз Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5B3F14D8-77F7-4917-915B-2CF4D162631"
+    },
+    {
+      "id": 655,
+      "name": "Умид ака Янгиобод",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C73CD533-0881-49FA-86AF-EA843BF93A7"
+    },
+    {
+      "id": 656,
+      "name": "Даврон ака Бока",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{27215292-468E-458E-9264-0412B80CC47"
+    },
+    {
+      "id": 657,
+      "name": "Бобур ака Бока",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{9490E0B6-5783-4091-8A58-DFF5BDE7375"
+    },
+    {
+      "id": 658,
+      "name": "Азиз ака Чилонзор Метро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{29147761-D8EF-4D9B-B1C4-3BA1DF3F0CA"
+    },
+    {
+      "id": 659,
+      "name": "Ренат ака Кашкадарё",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{5628E758-EF52-4951-8CC0-33A83037982"
+    },
+    {
+      "id": 660,
+      "name": "Ахмад ака Хатирчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F431A397-9BB1-4788-8306-B7FAE3EBD1B"
+    },
+    {
+      "id": 661,
+      "name": "кахрамон жура",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{12ED11A6-8CF5-4A9B-8583-2CD3870CBDE"
+    },
+    {
+      "id": 662,
+      "name": "Рахимбой ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{84818373-2E9F-44E6-B4E6-7F8F636510D"
+    },
+    {
+      "id": 663,
+      "name": "Ганишер ака Рамитон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D65C6798-406C-43B2-9A4D-E5294E6FA1A"
+    },
+    {
+      "id": 664,
+      "name": "Бахтиёр ака Зарибдор",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{16AC7561-D7BA-4046-873D-7B73C040442"
+    },
+    {
+      "id": 665,
+      "name": "Шохжахон BQ 127",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{F3EDF872-0B97-4406-8C0C-FC8C9863B11"
+    },
+    {
+      "id": 666,
+      "name": "Шахзод ака Янгийул",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{CCAAB47C-6C0D-47F7-A356-49597FB6D02"
+    },
+    {
+      "id": 667,
+      "name": "Умид ака Бухоро",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{53672C61-3C74-463D-B01A-A720E336116"
+    },
+    {
+      "id": 668,
+      "name": "Азиз ака Р59",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{EF16DDD6-8C70-4F30-B8E2-27B660B50B6"
+    },
+    {
+      "id": 669,
+      "name": "Жасур ака Чиноз",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{1E9BB1EF-51BE-4865-BD02-6C0B50A3C74"
+    },
+    {
+      "id": 670,
+      "name": "Акром ака Дона Р88",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{C820D6FF-9755-4B8A-828F-90C89A0D2EC"
+    },
+    {
+      "id": 671,
+      "name": "Баходир ака Учкахрамон",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{068ADA8E-FB60-4B65-B646-C2C63C7F184"
+    },
+    {
+      "id": 672,
+      "name": "Абдумалик ака Р59",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{D102693A-612E-4538-AF1E-2074978A687"
+    },
+    {
+      "id": 673,
+      "name": "Лочин ака Хатирчи",
+      "phone": "",
+      "address": "",
+      "my_uuid": "{29D59564-E960-4B1F-9D4D-DB3B3749516"
+    },
+    {
+      "id": 674,
+      "name": "aaaaaaaaaaaaaaaaaaa",
+      "phone": "",
+      "address": "",
+      "my_uuid": "AF55A1DC-A956-4D2E-8122-26048CE5926C"
+    },
+    {
+      "id": 675,
+      "name": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "phone": "",
+      "address": "",
+      "my_uuid": "2AF611F5-886D-48D2-BA89-14E5CDF26DE5"
+    },
+    {
+      "id": 676,
+      "active": "on",
+      "address": "chakka",
+      "filter": "customer",
+      "name": "Odilbek Ruzmetov",
+      "region": "urganch",
+      "phone": "+998908115494",
+      "zipCode": "123212"
+    }
+  ]
+}
