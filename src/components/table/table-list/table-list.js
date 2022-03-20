@@ -15,7 +15,7 @@ export default class TableList extends Component {
   // http://localhost:3000/client
 
   componentDidMount() {
-    fetch("http://localhost:3000/client")
+    fetch("http://62.109.18.228:3005/dics/contra")
       .then((response) => response.json())
       .then(
         (items) => {

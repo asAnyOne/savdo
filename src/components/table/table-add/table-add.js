@@ -1,5 +1,5 @@
 import { Component } from "react";
-import TableList from "../table-list/table-list";
+
 import "./table-add.css";
 export default class TableAdd extends Component {
   constructor(props) {
@@ -21,9 +21,11 @@ export default class TableAdd extends Component {
       [e.target.name]: e.target.value,
     }));
   };
+  // http://62.109.18.228:3005/dics/contra
+  // http://localhost:3000/client
   handleSubmit = (e) => {
     e.preventDefault();
-    fetch("http://localhost:3000/client", {
+    fetch("http://62.109.18.228:3005/dics/contra", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(this.state),
@@ -40,8 +42,7 @@ export default class TableAdd extends Component {
           phone: "",
           zipCode: "",
         })
-      )
-      .then(() => new TableList());
+      );
   };
 
   render() {
