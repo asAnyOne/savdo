@@ -1,0 +1,11 @@
+.mb-3 {
+  display: flex;
+  justify-content: space-between;
+}
+.form-control,
+.form-select {
+  width: 350px;
+}
+.modal-content {
+  background-color: rgb(238, 238, 238);
+}

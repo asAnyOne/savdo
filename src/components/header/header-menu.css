@@ -1,0 +1,16 @@
+.nav {
+  background-color: #0de9fd;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: rgb(10, 10, 10);
+  background-color: #eccc3c;
+}
+
+.nav-link {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

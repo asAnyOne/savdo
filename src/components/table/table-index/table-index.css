@@ -1,8 +1,0 @@
-thead {
-  position: relative;
-  margin-top: 100px;
-}
-
-thead > tr th {
-  font-size: 20px;
-}
