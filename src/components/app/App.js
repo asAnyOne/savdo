@@ -14,7 +14,7 @@ function App() {
   // http://62.109.18.228:3005/dics/contra
 
   useEffect(() => {
-    fetch(" http://62.109.18.228:3005/dics/contra")
+    fetch(" http://localhost:3000/client")
       .then((response) => response.json())
       .then((data) => {
         setClientData(data);
@@ -25,7 +25,7 @@ function App() {
     setClientData([...clientData, data]);
   };
   const onDeleteClientData = (id) =>
-    fetch(`http://62.109.18.228:3005/dics/contra/${id}`, {
+    fetch(`http://localhost:3000/client/${id}`, {
       method: "DELETE",
     }).finally(() =>
       setClientData(clientData.filter((item) => item.id !== id))
@@ -45,25 +45,20 @@ function App() {
   const onCompile = (id) => {
     setCompile(id);
   };
-  if (compile === 9) {
-    return (
-      <div className="App">
-        <HeaderMenu onCompile={onCompile} />
-        <EditClientData onAddClientData={onAddClientData} />
+
+  return (
+    <div className="App">
+      <HeaderMenu onCompile={onCompile} />
+      {compile === 9 && <EditClientData onAddClientData={onAddClientData} />}
+      {compile === 9 && (
         <ClientTable
           clientData={clientData}
           onDeleteClientData={onDeleteClientData}
           onChangeClientData={onChangeClientData}
         />
-      </div>
-    );
-  } else {
-    return (
-      <div className="App">
-        <HeaderMenu onCompile={onCompile} />
-      </div>
-    );
-  }
+      )}
+    </div>
+  );
 }
 
 export default App;

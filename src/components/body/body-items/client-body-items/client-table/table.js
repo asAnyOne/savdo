@@ -10,19 +10,19 @@ export default function ClientTable({
   onChangeClientData,
 }) {
   const makeList = () =>
-    clientData.map((data) => {
+    clientData.map((data, i) => {
       const { name, id, phone, address, active, region, zipCode, type } = data;
 
       return (
         <tr key={id}>
           <td className="id">{id}</td>
           <td>{active ? <input type="checkbox" defaultChecked /> : "+++"} </td>
-          <td>{region ? region : "Tashkent"}</td>
-          <td>{type ? type : "Client"}</td>
-          <td>{name ? name : ""}</td>
-          <td>{address ? address : ""}</td>
-          <td>{phone ? phone : ""}</td>
-          <td>{zipCode ? zipCode : "0"}</td>
+          <td>{region || "Tashkent"}</td>
+          <td>{type || "Mijoz"}</td>
+          <td>{"" || name}</td>
+          <td>{"" || address}</td>
+          <td>{"" || phone}</td>
+          <td>{zipCode || "0"}</td>
           <td className="pad0px">
             <ModalEditForm
               onChangeClientData={(data) => onChangeClientData(id, data)}

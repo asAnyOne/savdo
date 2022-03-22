@@ -19,7 +19,7 @@ export default function ModalAddForm({ onAddClientData }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch("http://62.109.18.228:3005/dics/contra", {
+    fetch("http://localhost:3000/client", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(clientData),
