@@ -16,7 +16,7 @@ export default function ModalEditForm({ onChangeClientData, getOnClient }) {
   // http://62.109.18.228:3005/dics/contra
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch(`http://62.109.18.228:3005/dics/contra/${clientData.id}`, {
+    fetch(`http://localhost:3000/client/${clientData.id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(clientData),

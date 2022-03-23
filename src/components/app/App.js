@@ -14,7 +14,7 @@ function App() {
   // http://62.109.18.228:3005/dics/contra
 
   useEffect(() => {
-    fetch(" http://62.109.18.228:3005/dics/contra")
+    fetch(" http://localhost:3000/client")
       .then((response) => response.json())
       .then((data) => {
         setClientData(data);
@@ -25,7 +25,7 @@ function App() {
     setClientData([...clientData, data]);
   };
   const onDeleteClientData = (id) =>
-    fetch(`http://62.109.18.228:3005/dics/contra/${id}`, {
+    fetch(`http://localhost:3000/client/${id}`, {
       method: "DELETE",
     }).finally(() =>
       setClientData(clientData.filter((item) => item.id !== id))
