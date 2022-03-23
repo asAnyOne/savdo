@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/savdo/static/css/main.80a24b83.css",
+    "main.js": "/savdo/static/js/main.8624162e.js",
+    "index.html": "/savdo/index.html",
+    "main.80a24b83.css.map": "/savdo/static/css/main.80a24b83.css.map",
+    "main.8624162e.js.map": "/savdo/static/js/main.8624162e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a24b83.css",
+    "static/js/main.8624162e.js"
+  ]
+}
