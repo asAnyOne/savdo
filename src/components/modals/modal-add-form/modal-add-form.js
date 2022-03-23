@@ -19,7 +19,7 @@ export default function ModalAddForm({ onAddClientData }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch("http://localhost:3000/client", {
+    fetch("https://jsonplaceholder.typicode.com/users", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(clientData),
