@@ -16,7 +16,7 @@ export default function ModalEditForm({ onChangeClientData, getOnClient }) {
   // http://62.109.18.228:3005/dics/contra
   const handleSubmit = (e) => {
     e.preventDefault();
-    fetch(`https://jsonplaceholder.typicode.com/users/${clientData.id}`, {
+    fetch(`https://jsonplaceholder.typicode.com/comments/${clientData.id}`, {
       method: "PUT",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(clientData),

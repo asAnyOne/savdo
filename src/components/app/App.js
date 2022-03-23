@@ -14,7 +14,7 @@ function App() {
   // http://62.109.18.228:3005/dics/contra
 
   useEffect(() => {
-    fetch(" https://jsonplaceholder.typicode.com/users")
+    fetch(" https://jsonplaceholder.typicode.com/comments")
       .then((response) => response.json())
       .then((data) => {
         setClientData(data);
@@ -24,7 +24,7 @@ function App() {
     setClientData([...clientData, data]);
   };
   const onDeleteClientData = (id) =>
-    fetch(`https://jsonplaceholder.typicode.com/users/${id}`, {
+    fetch(`https://jsonplaceholder.typicode.com/comments/${id}`, {
       method: "DELETE",
     }).finally(() =>
       setClientData(clientData.filter((item) => item.id !== id))
