@@ -18,8 +18,7 @@ function App() {
       .then((response) => response.json())
       .then((data) => {
         setClientData(data);
-      })
-      .finally(() => console.log("done"));
+      });
   }, []);
   const onAddClientData = (data) => {
     setClientData([...clientData, data]);
